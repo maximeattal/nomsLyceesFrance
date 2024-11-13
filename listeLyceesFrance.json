@@ -41,7 +41,7 @@
   },
   {
     "_id": 11,
-    "nom": "(01130) Lycée Professionnel Rural de L'Ain"
+    "nom": "(01130) Lycée Professionnel Rural de l'Ain"
   },
   {
     "_id": 12,
@@ -53,7 +53,7 @@
   },
   {
     "_id": 14,
-    "nom": "(01170) Lycée Jeanne D'Arc"
+    "nom": "(01170) Lycée Jeanne d'Arc"
   },
   {
     "_id": 15,
@@ -73,7 +73,7 @@
   },
   {
     "_id": 19,
-    "nom": "(01330) Lycée Professionnel Rural de L'Ain"
+    "nom": "(01330) Lycée Professionnel Rural de l'Ain"
   },
   {
     "_id": 20,
@@ -81,7 +81,7 @@
   },
   {
     "_id": 21,
-    "nom": "(01500) Lycée de la Plaine de L'Ain"
+    "nom": "(01500) Lycée de la Plaine de l'Ain"
   },
   {
     "_id": 22,
@@ -141,7 +141,7 @@
   },
   {
     "_id": 36,
-    "nom": "(02100) Lycée Professionnel de L'Ameublement"
+    "nom": "(02100) Lycée Professionnel de l'Ameublement"
   },
   {
     "_id": 37,
@@ -189,7 +189,7 @@
   },
   {
     "_id": 48,
-    "nom": "(02200) Lycée Saint-Vincent-De-Paul"
+    "nom": "(02200) Lycée Saint-Vincent-de-Paul"
   },
   {
     "_id": 49,
@@ -209,7 +209,7 @@
   },
   {
     "_id": 53,
-    "nom": "(02380) Lycée Professionnel Agricole D'Aumont"
+    "nom": "(02380) Lycée Professionnel Agricole d'Aumont"
   },
   {
     "_id": 54,
@@ -281,23 +281,23 @@
   },
   {
     "_id": 71,
-    "nom": "(03150) Lycée Professionnel Val D'Allier"
+    "nom": "(03150) Lycée Professionnel Val d'Allier"
   },
   {
     "_id": 72,
-    "nom": "(03200) Ecole D'Esthétique Et de Coiffure Fournier"
+    "nom": "(03200) Ecole d'Esthétique et de Coiffure Fournier"
   },
   {
     "_id": 73,
-    "nom": "(03200) Lycée Privé D'Enseignement Supérieur de Vichy"
+    "nom": "(03200) Lycée Privé d'Enseignement Supérieur de Vichy"
   },
   {
     "_id": 74,
-    "nom": "(03200) Lycée Polyvalent Privé D'Enseignement Supérieur"
+    "nom": "(03200) Lycée Polyvalent Privé d'Enseignement Supérieur"
   },
   {
     "_id": 75,
-    "nom": "(03250) Lycée D'Enseignement Agricole et Forestier Claude Mercier"
+    "nom": "(03250) Lycée d'Enseignement Agricole et Forestier Claude Mercier"
   },
   {
     "_id": 76,
@@ -349,7 +349,7 @@
   },
   {
     "_id": 88,
-    "nom": "(04000) Lycée Professionnel ALycée Professionnelhonse Beau de Rochas"
+    "nom": "(04000) Lycée Professionnel Alphonse Beau de Rochas"
   },
   {
     "_id": 89,
@@ -393,7 +393,7 @@
   },
   {
     "_id": 99,
-    "nom": "(05000) Lycée Enseignement Général et Technologique Agricole des Hautes-ALycée Professionneles"
+    "nom": "(05000) Lycée Enseignement Général et Technologique Agricole des Hautes-Alpes"
   },
   {
     "_id": 100,
@@ -409,7 +409,7 @@
   },
   {
     "_id": 103,
-    "nom": "(05100) Lycée D'Altitude"
+    "nom": "(05100) Lycée d'Altitude"
   },
   {
     "_id": 104,
@@ -417,7 +417,7 @@
   },
   {
     "_id": 105,
-    "nom": "(05200) Lycée Professionnel ALycée Professionneles et Durance"
+    "nom": "(05200) Lycée Professionnel Alycée Professionneles et Durance"
   },
   {
     "_id": 106,
@@ -429,11 +429,11 @@
   },
   {
     "_id": 108,
-    "nom": "(06000) Ecole D'Esthétique Cosmétique et Maquillage Gontard - Elégance"
+    "nom": "(06000) Ecole d'Esthétique Cosmétique et Maquillage Gontard - Elégance"
   },
   {
     "_id": 109,
-    "nom": "(06000) Ecole Européenne D'Esthétique Technique Privée"
+    "nom": "(06000) Ecole Européenne d'Esthétique Technique Privée"
   },
   {
     "_id": 110,
@@ -441,11 +441,11 @@
   },
   {
     "_id": 111,
-    "nom": "(06000) Institut Libre D'Études Commerciales Nice"
+    "nom": "(06000) Institut Libre d'Études Commerciales Nice"
   },
   {
     "_id": 112,
-    "nom": "(06000) Institut Méditerranéen D'Études Secondaires"
+    "nom": "(06000) Institut Méditerranéen d'Études Secondaires"
   },
   {
     "_id": 113,
@@ -453,11 +453,11 @@
   },
   {
     "_id": 114,
-    "nom": "(06000) Lycée Cours Henri IV"
+    "nom": "(06000) Lycée Cours Henri Iv"
   },
   {
     "_id": 115,
-    "nom": "(06000) Lycée de L'Alliance"
+    "nom": "(06000) Lycée de l'Alliance"
   },
   {
     "_id": 116,
@@ -469,7 +469,7 @@
   },
   {
     "_id": 118,
-    "nom": "(06000) Lycée des Sciences Appliquées Aux Métiers de L'Industrie les Eucalyptus"
+    "nom": "(06000) Lycée des Sciences Appliquées Aux Métiers de l'Industrie les Eucalyptus"
   },
   {
     "_id": 119,
@@ -485,7 +485,7 @@
   },
   {
     "_id": 122,
-    "nom": "(06000) Lycée Honoré D'Estienne D'Orves"
+    "nom": "(06000) Lycée Honoré d'Estienne d'Orves"
   },
   {
     "_id": 123,
@@ -505,11 +505,11 @@
   },
   {
     "_id": 127,
-    "nom": "(06000) Lycée Professionnel des Métiers D'Art Et de la Mécanique de Précision Pasteur"
+    "nom": "(06000) Lycée Professionnel des Métiers d'Art et de la Mécanique de Précision Pasteur"
   },
   {
     "_id": 128,
-    "nom": "(06000) Lycée Professionnel Des Métiers de L'Hôtellerie et du Tourisme Paul Augier"
+    "nom": "(06000) Lycée Professionnel des Métiers de l'Hôtellerie et du Tourisme Paul Augier"
   },
   {
     "_id": 129,
@@ -581,7 +581,7 @@
   },
   {
     "_id": 146,
-    "nom": "(06400) Institut Libre D'Études Commerciales Cannes"
+    "nom": "(06400) Institut Libre d'Études Commerciales Cannes"
   },
   {
     "_id": 147,
@@ -593,7 +593,7 @@
   },
   {
     "_id": 149,
-    "nom": "(06400) Lycée Des Métiers de La Mode et du Costume de Spectacle les Côteaux"
+    "nom": "(06400) Lycée des Métiers de la Mode et du Costume de Spectacle les Côteaux"
   },
   {
     "_id": 150,
@@ -625,7 +625,7 @@
   },
   {
     "_id": 157,
-    "nom": "(06500) Lycée Professionnel des Métiers de L'Hôtellerie Paul Valéry"
+    "nom": "(06500) Lycée Professionnel des Métiers de l'Hôtellerie Paul Valéry"
   },
   {
     "_id": 158,
@@ -653,7 +653,7 @@
   },
   {
     "_id": 164,
-    "nom": "(06600) Lycée Vert D'Azur Horticole et Agricole"
+    "nom": "(06600) Lycée Vert d'Azur Horticole et Agricole"
   },
   {
     "_id": 165,
@@ -673,15 +673,15 @@
   },
   {
     "_id": 169,
-    "nom": "(07000) Lycée Vincent D'Indy"
+    "nom": "(07000) Lycée Vincent d'Indy"
   },
   {
     "_id": 170,
-    "nom": "(07100) Lycée Agro-Technologique Privé D'Annonay"
+    "nom": "(07100) Lycée Agro-technologique Privé d'Annonay"
   },
   {
     "_id": 171,
-    "nom": "(07100) Lycée Boissy D'Anglas"
+    "nom": "(07100) Lycée Boissy d'Anglas"
   },
   {
     "_id": 172,
@@ -833,7 +833,7 @@
   },
   {
     "_id": 209,
-    "nom": "(08400) Lycée Professionnel Jeanne D'Arc"
+    "nom": "(08400) Lycée Professionnel Jeanne d'Arc"
   },
   {
     "_id": 210,
@@ -1017,7 +1017,7 @@
   },
   {
     "_id": 255,
-    "nom": "(11170) Lycée D'Enseignement Agricole Privé Emile de Rodat"
+    "nom": "(11170) Lycée d'Enseignement Agricole Privé Emile de Rodat"
   },
   {
     "_id": 256,
@@ -1025,7 +1025,7 @@
   },
   {
     "_id": 257,
-    "nom": "(11200) Lycée Professionnel Agricole L'Amandier"
+    "nom": "(11200) Lycée Professionnel Agricole l'Amandier"
   },
   {
     "_id": 258,
@@ -1069,7 +1069,7 @@
   },
   {
     "_id": 268,
-    "nom": "(12000) Lycée Privé François D'Estaing"
+    "nom": "(12000) Lycée Privé François d'Estaing"
   },
   {
     "_id": 269,
@@ -1085,7 +1085,7 @@
   },
   {
     "_id": 272,
-    "nom": "(12100) Lycée Privé Jeanne D'Arc"
+    "nom": "(12100) Lycée Privé Jeanne d'Arc"
   },
   {
     "_id": 273,
@@ -1253,7 +1253,7 @@
   },
   {
     "_id": 314,
-    "nom": "(13008) Ecole Privée De la Coiffure Leader"
+    "nom": "(13008) Ecole Privée de la Coiffure Leader"
   },
   {
     "_id": 315,
@@ -1333,7 +1333,7 @@
   },
   {
     "_id": 334,
-    "nom": "(13011) Lycée Ecole Modèle D'Électronique"
+    "nom": "(13011) Lycée Ecole Modèle d'Électronique"
   },
   {
     "_id": 335,
@@ -1353,7 +1353,7 @@
   },
   {
     "_id": 339,
-    "nom": "(13012) Lycée L'Olivier - Robert Coffy"
+    "nom": "(13012) Lycée l'Olivier - Robert Coffy"
   },
   {
     "_id": 340,
@@ -1441,7 +1441,7 @@
   },
   {
     "_id": 361,
-    "nom": "(13016) Lycée Professionnel et Technologique Régional L'Estaque"
+    "nom": "(13016) Lycée Professionnel et Technologique Régional l'Estaque"
   },
   {
     "_id": 362,
@@ -1521,7 +1521,7 @@
   },
   {
     "_id": 381,
-    "nom": "(13120) Lycée Agricole D'Aix-Valabre"
+    "nom": "(13120) Lycée Agricole d'Aix-Valabre"
   },
   {
     "_id": 382,
@@ -1529,7 +1529,7 @@
   },
   {
     "_id": 383,
-    "nom": "(13120) Lycée Professionnel L'Etoile"
+    "nom": "(13120) Lycée Professionnel l'Etoile"
   },
   {
     "_id": 384,
@@ -1549,7 +1549,7 @@
   },
   {
     "_id": 388,
-    "nom": "(13140) Lycée D'Enseignement Privé Agricole Fontlongue"
+    "nom": "(13140) Lycée d'Enseignement Privé Agricole Fontlongue"
   },
   {
     "_id": 389,
@@ -1557,11 +1557,11 @@
   },
   {
     "_id": 390,
-    "nom": "(13140) Lycée Professionnel les ALycée Professionnelilles"
+    "nom": "(13140) Lycée Professionnel les Alycée Professionnelilles"
   },
   {
     "_id": 391,
-    "nom": "(13150) Lycée ALycée Professionnelhonse Daudet"
+    "nom": "(13150) Lycée Alycée Professionnelhonse Daudet"
   },
   {
     "_id": 392,
@@ -1569,7 +1569,7 @@
   },
   {
     "_id": 393,
-    "nom": "(13200) Lycée Jeanne D'Arc"
+    "nom": "(13200) Lycée Jeanne d'Arc"
   },
   {
     "_id": 394,
@@ -1589,7 +1589,7 @@
   },
   {
     "_id": 398,
-    "nom": "(13210) Lycée Professionnel Agricole les ALycée Professionnelilles"
+    "nom": "(13210) Lycée Professionnel Agricole les Alycée Professionnelilles"
   },
   {
     "_id": 399,
@@ -1613,7 +1613,7 @@
   },
   {
     "_id": 404,
-    "nom": "(13300) Lycée de L'Empéri"
+    "nom": "(13300) Lycée de l'Empéri"
   },
   {
     "_id": 405,
@@ -1717,7 +1717,7 @@
   },
   {
     "_id": 430,
-    "nom": "(14000) Lycée Dumont D'Urville"
+    "nom": "(14000) Lycée Dumont d'Urville"
   },
   {
     "_id": 431,
@@ -1737,7 +1737,7 @@
   },
   {
     "_id": 435,
-    "nom": "(14000) Lycée Privé Jeanne D'Arc"
+    "nom": "(14000) Lycée Privé Jeanne d'Arc"
   },
   {
     "_id": 436,
@@ -1745,7 +1745,7 @@
   },
   {
     "_id": 437,
-    "nom": "(14000) Lycée Professionnel de L'Oasis"
+    "nom": "(14000) Lycée Professionnel de l'Oasis"
   },
   {
     "_id": 438,
@@ -1765,7 +1765,7 @@
   },
   {
     "_id": 442,
-    "nom": "(14100) Apprentis D'Auteuil - Lycée Professionnelp Victorine Magne"
+    "nom": "(14100) Apprentis d'Auteuil - Lycée Professionnelp Victorine Magne"
   },
   {
     "_id": 443,
@@ -1825,7 +1825,7 @@
   },
   {
     "_id": 457,
-    "nom": "(14400) Lycée Jeanne D'Arc"
+    "nom": "(14400) Lycée Jeanne d'Arc"
   },
   {
     "_id": 458,
@@ -1837,7 +1837,7 @@
   },
   {
     "_id": 460,
-    "nom": "(14480) Ecole du Paysage et de L'Horticulture"
+    "nom": "(14480) Ecole du Paysage et de l'Horticulture"
   },
   {
     "_id": 461,
@@ -1877,7 +1877,7 @@
   },
   {
     "_id": 470,
-    "nom": "(15000) Lycée De la Communication Saint-Géraud"
+    "nom": "(15000) Lycée de la Communication Saint-Géraud"
   },
   {
     "_id": 471,
@@ -1909,7 +1909,7 @@
   },
   {
     "_id": 478,
-    "nom": "(15100) Lycée D'Enseignement Agricole Saint-Vincent"
+    "nom": "(15100) Lycée d'Enseignement Agricole Saint-Vincent"
   },
   {
     "_id": 479,
@@ -1945,7 +1945,7 @@
   },
   {
     "_id": 487,
-    "nom": "(16000) Lisa - Lycée de L'Image Et du Son D'Angoulême"
+    "nom": "(16000) Lisa - Lycée de l'Image et du Son d'Angoulême"
   },
   {
     "_id": 488,
@@ -2009,7 +2009,7 @@
   },
   {
     "_id": 503,
-    "nom": "(16400) Legta - Lycée Agricole L'Oisellerie D'Angoulême"
+    "nom": "(16400) Legta - Lycée Agricole l'Oisellerie d'Angoulême"
   },
   {
     "_id": 504,
@@ -2029,7 +2029,7 @@
   },
   {
     "_id": 508,
-    "nom": "(16710) Lycée Polyvalent Privé Saint-Joseph L'Amandier"
+    "nom": "(16710) Lycée Polyvalent Privé Saint-joseph l'Amandier"
   },
   {
     "_id": 509,
@@ -2037,7 +2037,7 @@
   },
   {
     "_id": 510,
-    "nom": "(17000) Ecole Française de Coiffure et D'Esthétique"
+    "nom": "(17000) Ecole Française de Coiffure et d'Esthétique"
   },
   {
     "_id": 511,
@@ -2069,7 +2069,7 @@
   },
   {
     "_id": 518,
-    "nom": "(17000) Lycée Régional D'Enseignement Maritime et Aquacole"
+    "nom": "(17000) Lycée Régional d'Enseignement Maritime et Aquacole"
   },
   {
     "_id": 519,
@@ -2077,7 +2077,7 @@
   },
   {
     "_id": 520,
-    "nom": "(17100) Cetaa - Cours D'Enseignement Technique de L'Armée de L'Air de Saintes"
+    "nom": "(17100) Cetaa - Cours d'Enseignement Technique de l'Armée de l'Air de Saintes"
   },
   {
     "_id": 521,
@@ -2109,7 +2109,7 @@
   },
   {
     "_id": 528,
-    "nom": "(17200) Lycée Professionnel de L'Atlantique"
+    "nom": "(17200) Lycée Professionnel de l'Atlantique"
   },
   {
     "_id": 529,
@@ -2153,11 +2153,11 @@
   },
   {
     "_id": 539,
-    "nom": "(17560) Lycée de La Mer et du Littoral"
+    "nom": "(17560) Lycée de la Mer et du Littoral"
   },
   {
     "_id": 540,
-    "nom": "(17700) Ecole Nationale de L'Industrie Laitière Agroalimentaire"
+    "nom": "(17700) Ecole Nationale de l'Industrie Laitière Agroalimentaire"
   },
   {
     "_id": 541,
@@ -2165,7 +2165,7 @@
   },
   {
     "_id": 542,
-    "nom": "(17700) Lycée Professionnel du Pays D'Aunis"
+    "nom": "(17700) Lycée Professionnel du Pays d'Aunis"
   },
   {
     "_id": 543,
@@ -2233,7 +2233,7 @@
   },
   {
     "_id": 559,
-    "nom": "(18520) Lycée D'Enseignement Professionnel Agricole Privé de Bengy-Sur-Craon"
+    "nom": "(18520) Lycée d'Enseignement Professionnel Agricole Privé de Bengy-sur-Craon"
   },
   {
     "_id": 560,
@@ -2249,7 +2249,7 @@
   },
   {
     "_id": 563,
-    "nom": "(19100) Ecole Privée D'Esthétique S. Terrade"
+    "nom": "(19100) Ecole Privée d'Esthétique S. Terrade"
   },
   {
     "_id": 564,
@@ -2257,7 +2257,7 @@
   },
   {
     "_id": 565,
-    "nom": "(19100) Lycée D'Arsonval"
+    "nom": "(19100) Lycée d'Arsonval"
   },
   {
     "_id": 566,
@@ -2309,7 +2309,7 @@
   },
   {
     "_id": 578,
-    "nom": "(19300) Ecole D'Application des Travaux Publics"
+    "nom": "(19300) Ecole d'Application des Travaux Publics"
   },
   {
     "_id": 579,
@@ -2317,7 +2317,7 @@
   },
   {
     "_id": 580,
-    "nom": "(19400) Lycée Jeanne D'Arc"
+    "nom": "(19400) Lycée Jeanne d'Arc"
   },
   {
     "_id": 581,
@@ -2357,7 +2357,7 @@
   },
   {
     "_id": 590,
-    "nom": "(20200) Lycée Jeanne D'Arc"
+    "nom": "(20200) Lycée Jeanne d'Arc"
   },
   {
     "_id": 591,
@@ -2421,7 +2421,7 @@
   },
   {
     "_id": 606,
-    "nom": "(21000) Lycée les Marcs D'Or"
+    "nom": "(21000) Lycée les Marcs d'Or"
   },
   {
     "_id": 607,
@@ -2449,7 +2449,7 @@
   },
   {
     "_id": 613,
-    "nom": "(21130) Lycée Prieur De la Côte D'Or"
+    "nom": "(21130) Lycée Prieur de la Côte d'Or"
   },
   {
     "_id": 614,
@@ -2481,7 +2481,7 @@
   },
   {
     "_id": 621,
-    "nom": "(21250) Lycée D'Enseignement Agricole Privé Anne-Marie Javouhey"
+    "nom": "(21250) Lycée d'Enseignement Agricole Privé Anne-Marie Javouhey"
   },
   {
     "_id": 622,
@@ -2533,7 +2533,7 @@
   },
   {
     "_id": 634,
-    "nom": "(22000) Lycée Professionnel Jean Moulin Avec Section D'Enseignement Agricole"
+    "nom": "(22000) Lycée Professionnel Jean Moulin Avec Section d'Enseignement Agricole"
   },
   {
     "_id": 635,
@@ -2633,7 +2633,7 @@
   },
   {
     "_id": 659,
-    "nom": "(22400) Lycée et Section D'Enseignement Professionnel Henri Avril"
+    "nom": "(22400) Lycée et Section d'Enseignement Professionnel Henri Avril"
   },
   {
     "_id": 660,
@@ -2649,7 +2649,7 @@
   },
   {
     "_id": 663,
-    "nom": "(22500) Lycée et Section D'Enseignement Professionnel Kerraoul"
+    "nom": "(22500) Lycée et Section d'Enseignement Professionnel Kerraoul"
   },
   {
     "_id": 664,
@@ -2657,7 +2657,7 @@
   },
   {
     "_id": 665,
-    "nom": "(22600) Lycée et Sep FuLycéeence Bienven¸E"
+    "nom": "(22600) Lycée et Sep Fulycéeence Bienven¸e"
   },
   {
     "_id": 666,
@@ -2689,7 +2689,7 @@
   },
   {
     "_id": 673,
-    "nom": "(23150) Legtpa ALycée Professionnelhonse Defumade"
+    "nom": "(23150) Legtpa Alycée Professionnelhonse Defumade"
   },
   {
     "_id": 674,
@@ -2709,7 +2709,7 @@
   },
   {
     "_id": 678,
-    "nom": "(23400) Lycée Professionnel DeLycée Professionnelhine Gay"
+    "nom": "(23400) Lycée Professionnel Delycée Professionnelhine Gay"
   },
   {
     "_id": 679,
@@ -2761,7 +2761,7 @@
   },
   {
     "_id": 691,
-    "nom": "(24100) Lycée Professionnel de L'Alba"
+    "nom": "(24100) Lycée Professionnel de l'Alba"
   },
   {
     "_id": 692,
@@ -2809,11 +2809,11 @@
   },
   {
     "_id": 703,
-    "nom": "(24750) Lycée Privé Hôtelier De la Cci de la Dordogne - École Hôtelière du Périgord"
+    "nom": "(24750) Lycée Privé Hôtelier de la Cci de la Dordogne - École Hôtelière du Périgord"
   },
   {
     "_id": 704,
-    "nom": "(24800) Lycée Professionnel Porte D'Aquitaine"
+    "nom": "(24800) Lycée Professionnel Porte d'Aquitaine"
   },
   {
     "_id": 705,
@@ -2893,7 +2893,7 @@
   },
   {
     "_id": 724,
-    "nom": "(25110) Lycée Professionnel Jouffroy D'Abbans"
+    "nom": "(25110) Lycée Professionnel Jouffroy d'Abbans"
   },
   {
     "_id": 725,
@@ -2909,7 +2909,7 @@
   },
   {
     "_id": 728,
-    "nom": "(25210) Lycée D'Enseignement Agricole Privé Saint-Joseph"
+    "nom": "(25210) Lycée d'Enseignement Agricole Privé Saint-Joseph"
   },
   {
     "_id": 729,
@@ -2925,7 +2925,7 @@
   },
   {
     "_id": 732,
-    "nom": "(25300) Lycée Privé Jeanne D'Arc"
+    "nom": "(25300) Lycée Privé Jeanne d'Arc"
   },
   {
     "_id": 733,
@@ -2945,7 +2945,7 @@
   },
   {
     "_id": 737,
-    "nom": "(25400) Lycée Professionnel D'Audincourt"
+    "nom": "(25400) Lycée Professionnel d'Audincourt"
   },
   {
     "_id": 738,
@@ -2957,7 +2957,7 @@
   },
   {
     "_id": 740,
-    "nom": "(25620) Ecole D'Industrie Laitière"
+    "nom": "(25620) Ecole d'Industrie Laitière"
   },
   {
     "_id": 741,
@@ -2965,7 +2965,7 @@
   },
   {
     "_id": 742,
-    "nom": "(26000) Ecole Privée D'Esthétique et de Coiffure"
+    "nom": "(26000) Ecole Privée d'Esthétique et de Coiffure"
   },
   {
     "_id": 743,
@@ -2977,7 +2977,7 @@
   },
   {
     "_id": 745,
-    "nom": "(26000) Lycée Polyvalent ALycéeoud-Laffemas"
+    "nom": "(26000) Lycée Polyvalent Alycéeoud-Laffemas"
   },
   {
     "_id": 746,
@@ -3085,11 +3085,11 @@
   },
   {
     "_id": 772,
-    "nom": "(26500) Lycée Les 3 Sources"
+    "nom": "(26500) Lycée les 3 Sources"
   },
   {
     "_id": 773,
-    "nom": "(26600) Lycée Professionnel Hôtelier de L'Hermitage"
+    "nom": "(26600) Lycée Professionnel Hôtelier de l'Hermitage"
   },
   {
     "_id": 774,
@@ -3097,7 +3097,7 @@
   },
   {
     "_id": 775,
-    "nom": "(26760) Lycée du Val de Drôme - Fondation D'Auteuil"
+    "nom": "(26760) Lycée du Val de Drôme - Fondation d'Auteuil"
   },
   {
     "_id": 776,
@@ -3261,15 +3261,15 @@
   },
   {
     "_id": 816,
-    "nom": "(28110) Lycée Professionnel Philibert de L'Orme"
+    "nom": "(28110) Lycée Professionnel Philibert de l'Orme"
   },
   {
     "_id": 817,
-    "nom": "(28130) Lycée Professionnel Privé Françoise D'Aubigné"
+    "nom": "(28130) Lycée Professionnel Privé Françoise d'Aubigné"
   },
   {
     "_id": 818,
-    "nom": "(28200) Lycée D'Enseignement Agricole Privé de Nermont"
+    "nom": "(28200) Lycée d'Enseignement Agricole Privé de Nermont"
   },
   {
     "_id": 819,
@@ -3293,7 +3293,7 @@
   },
   {
     "_id": 824,
-    "nom": "(28400) Lycée D'Enseignement Professionnel Agricole Privé de Nermont - Site du Perche"
+    "nom": "(28400) Lycée d'Enseignement Professionnel Agricole Privé de Nermont - Site du Perche"
   },
   {
     "_id": 825,
@@ -3313,7 +3313,7 @@
   },
   {
     "_id": 829,
-    "nom": "(29000) Ecole Technique Privée - Formation Aux Métiers D'Avenir - Pigier"
+    "nom": "(29000) Ecole Technique Privée - Formation Aux Métiers d'Avenir - Pigier"
   },
   {
     "_id": 830,
@@ -3325,7 +3325,7 @@
   },
   {
     "_id": 832,
-    "nom": "(29000) Lycée et Section D'Enseignement Professionnel Yves Thépôt"
+    "nom": "(29000) Lycée et Section d'Enseignement Professionnel Yves Thépôt"
   },
   {
     "_id": 833,
@@ -3369,7 +3369,7 @@
   },
   {
     "_id": 843,
-    "nom": "(29150) Legta de L'Aulne"
+    "nom": "(29150) Legta de l'Aulne"
   },
   {
     "_id": 844,
@@ -3393,7 +3393,7 @@
   },
   {
     "_id": 849,
-    "nom": "(29200) Lycée Amiral Ronarc'H"
+    "nom": "(29200) Lycée Amiral ronarc'H"
   },
   {
     "_id": 850,
@@ -3405,11 +3405,11 @@
   },
   {
     "_id": 852,
-    "nom": "(29200) Lycée de L'Harteloire"
+    "nom": "(29200) Lycée de l'Harteloire"
   },
   {
     "_id": 853,
-    "nom": "(29200) Lycée de L'Iroise"
+    "nom": "(29200) Lycée de l'Iroise"
   },
   {
     "_id": 854,
@@ -3417,11 +3417,11 @@
   },
   {
     "_id": 855,
-    "nom": "(29200) Lycée et Section D'Enseignement Professionnel Estran Fénelon"
+    "nom": "(29200) Lycée et Section d'Enseignement Professionnel Estran Fénelon"
   },
   {
     "_id": 856,
-    "nom": "(29200) Lycée et Section D'Enseignement Professionnel Vauban"
+    "nom": "(29200) Lycée et Section d'Enseignement Professionnel Vauban"
   },
   {
     "_id": 857,
@@ -3445,7 +3445,7 @@
   },
   {
     "_id": 862,
-    "nom": "(29200) Section D'Enseignement Professionnel Vauban - Site de Lanroze"
+    "nom": "(29200) Section d'Enseignement Professionnel Vauban - Site de Lanroze"
   },
   {
     "_id": 863,
@@ -3465,7 +3465,7 @@
   },
   {
     "_id": 867,
-    "nom": "(29270) Lycée et Section D'Enseignement Professionnel Paul Sérusier"
+    "nom": "(29270) Lycée et Section d'Enseignement Professionnel Paul Sérusier"
   },
   {
     "_id": 868,
@@ -3517,7 +3517,7 @@
   },
   {
     "_id": 880,
-    "nom": "(29700) Lycée de L'Horticulture et du Paysage de Kerbernez"
+    "nom": "(29700) Lycée de l'Horticulture et du Paysage de Kerbernez"
   },
   {
     "_id": 881,
@@ -3529,11 +3529,11 @@
   },
   {
     "_id": 883,
-    "nom": "(29800) Lycée et Section D'Enseignement Professionnel de L'Elorn"
+    "nom": "(29800) Lycée et Section d'Enseignement Professionnel de l'Elorn"
   },
   {
     "_id": 884,
-    "nom": "(29800) Lycée et Section D'Enseignement Professionnel Saint-Joseph"
+    "nom": "(29800) Lycée et Section d'Enseignement Professionnel Saint-Joseph"
   },
   {
     "_id": 885,
@@ -3541,11 +3541,11 @@
   },
   {
     "_id": 886,
-    "nom": "(29900) Lycée et Section D'Enseignement Professionnel Pierre Guéguin"
+    "nom": "(29900) Lycée et Section d'Enseignement Professionnel Pierre Guéguin"
   },
   {
     "_id": 887,
-    "nom": "(29900) Lycée Et Section D'Enseignement Professionnel Saint Joseph - Saint Marc"
+    "nom": "(29900) Lycée et Section d'Enseignement Professionnel Saint Joseph - Saint Marc"
   },
   {
     "_id": 888,
@@ -3557,7 +3557,7 @@
   },
   {
     "_id": 890,
-    "nom": "(30000) Lycée ALycée Professionnelhonse Daudet"
+    "nom": "(30000) Lycée Alycée Professionnelhonse Daudet"
   },
   {
     "_id": 891,
@@ -3569,7 +3569,7 @@
   },
   {
     "_id": 893,
-    "nom": "(30000) Lycée Emmanuel D'Alzon"
+    "nom": "(30000) Lycée Emmanuel d'Alzon"
   },
   {
     "_id": 894,
@@ -3633,7 +3633,7 @@
   },
   {
     "_id": 909,
-    "nom": "(30100) Section D'Enseignement Professionnel Lycée Jean-Baptiste Dumas"
+    "nom": "(30100) Section d'Enseignement Professionnel Lycée Jean-Baptiste Dumas"
   },
   {
     "_id": 910,
@@ -3653,7 +3653,7 @@
   },
   {
     "_id": 914,
-    "nom": "(30200) Section D'Enseignement Professionnel Albert Einstein"
+    "nom": "(30200) Section d'Enseignement Professionnel Albert Einstein"
   },
   {
     "_id": 915,
@@ -3669,7 +3669,7 @@
   },
   {
     "_id": 918,
-    "nom": "(30300) Lycée Privé D'Alzon - Site Notre Dame"
+    "nom": "(30300) Lycée Privé d'Alzon - Site Notre Dame"
   },
   {
     "_id": 919,
@@ -3697,7 +3697,7 @@
   },
   {
     "_id": 925,
-    "nom": "(30600) Lycée Agricole Privé Emmanuel D'Alzon - Site de Vestric"
+    "nom": "(30600) Lycée Agricole Privé Emmanuel d'Alzon - Site de Vestric"
   },
   {
     "_id": 926,
@@ -3725,11 +3725,11 @@
   },
   {
     "_id": 932,
-    "nom": "(31000) Ecole Technique Privée D'Esthéticiennes Marge Verlair"
+    "nom": "(31000) Ecole Technique Privée d'Esthéticiennes Marge Verlair"
   },
   {
     "_id": 933,
-    "nom": "(31000) Ecole Technique Privée D'Esthétique Esther Mario"
+    "nom": "(31000) Ecole Technique Privée d'Esthétique Esther Mario"
   },
   {
     "_id": 934,
@@ -3829,7 +3829,7 @@
   },
   {
     "_id": 958,
-    "nom": "(31000) Lycée Professionnel Privé De L'Aéronautique Airbus"
+    "nom": "(31000) Lycée Professionnel Privé de l'Aéronautique Airbus"
   },
   {
     "_id": 959,
@@ -3853,7 +3853,7 @@
   },
   {
     "_id": 964,
-    "nom": "(31000) Lycée Professionnel Privé Skhole D'Art"
+    "nom": "(31000) Lycée Professionnel Privé Skhole d'Art"
   },
   {
     "_id": 965,
@@ -3877,23 +3877,23 @@
   },
   {
     "_id": 970,
-    "nom": "(31000) Section D'Enseignement Général et Technologique Du Lycée Professionnel Sainte-Marie Saint-Sernin"
+    "nom": "(31000) Section d'Enseignement Général et Technologique du Lycée Professionnel Sainte-Marie Saint-Sernin"
   },
   {
     "_id": 971,
-    "nom": "(31000) Section D'Enseignement Général et Technologique du Lycée Professionnel Skhole D'Art"
+    "nom": "(31000) Section d'Enseignement Général et Technologique du Lycée Professionnel Skhole d'Art"
   },
   {
     "_id": 972,
-    "nom": "(31000) Section D'Enseignement Général et Technologique Du Lycée Professionnel Urbain Vitry"
+    "nom": "(31000) Section d'Enseignement Général et Technologique du Lycée Professionnel Urbain Vitry"
   },
   {
     "_id": 973,
-    "nom": "(31000) Section D'Enseignement Général et Technologique du Lycée Roland Garros"
+    "nom": "(31000) Section d'Enseignement Général et Technologique du Lycée Roland Garros"
   },
   {
     "_id": 974,
-    "nom": "(31000) Section D'Enseignement Professionnel Privée du Lycée Emilie de Rodat"
+    "nom": "(31000) Section d'Enseignement Professionnel Privée du Lycée Emilie de Rodat"
   },
   {
     "_id": 975,
@@ -3913,7 +3913,7 @@
   },
   {
     "_id": 979,
-    "nom": "(31170) Lycée Polyvalent M.L Dissard Françoise"
+    "nom": "(31170) Lycée Polyvalent M.l Dissard Françoise"
   },
   {
     "_id": 980,
@@ -3925,7 +3925,7 @@
   },
   {
     "_id": 982,
-    "nom": "(31250) Lycée Professionnel de L'Ameublement"
+    "nom": "(31250) Lycée Professionnel de l'Ameublement"
   },
   {
     "_id": 983,
@@ -3961,7 +3961,7 @@
   },
   {
     "_id": 991,
-    "nom": "(31380) Lycée Professionnel Rural Privé L'Oustal"
+    "nom": "(31380) Lycée Professionnel Rural Privé l'Oustal"
   },
   {
     "_id": 992,
@@ -3973,7 +3973,7 @@
   },
   {
     "_id": 994,
-    "nom": "(31600) Lycée Pierre D'Aragon"
+    "nom": "(31600) Lycée Pierre d'Aragon"
   },
   {
     "_id": 995,
@@ -4017,7 +4017,7 @@
   },
   {
     "_id": 1005,
-    "nom": "(31770) Lycée Technique et Institut D'Enseignement Privé Ort Maurice Grynfogel"
+    "nom": "(31770) Lycée Technique et Institut d'Enseignement Privé Ort Maurice Grynfogel"
   },
   {
     "_id": 1006,
@@ -4037,7 +4037,7 @@
   },
   {
     "_id": 1010,
-    "nom": "(31800) Section D'Enseignement Professionnel Privée du Lycée Sainte Thérèse"
+    "nom": "(31800) Section d'Enseignement Professionnel Privée du Lycée Sainte Thérèse"
   },
   {
     "_id": 1011,
@@ -4045,7 +4045,7 @@
   },
   {
     "_id": 1012,
-    "nom": "(31840) Lycée Privé L'Annonciation"
+    "nom": "(31840) Lycée Privé l'Annonciation"
   },
   {
     "_id": 1013,
@@ -4057,7 +4057,7 @@
   },
   {
     "_id": 1015,
-    "nom": "(32000) Legta D'Auch, Beaulieu et Lavacant - Site de Beaulieu"
+    "nom": "(32000) Legta d'Auch, Beaulieu et Lavacant - Site de Beaulieu"
   },
   {
     "_id": 1016,
@@ -4077,7 +4077,7 @@
   },
   {
     "_id": 1020,
-    "nom": "(32110) Lycée Polyvalent D'Artagnan"
+    "nom": "(32110) Lycée Polyvalent d'Artagnan"
   },
   {
     "_id": 1021,
@@ -4101,7 +4101,7 @@
   },
   {
     "_id": 1026,
-    "nom": "(32550) Legta D'Auch, Beaulieu et Lavacant - Site de Lavacant"
+    "nom": "(32550) Legta d'Auch, Beaulieu et Lavacant - Site de Lavacant"
   },
   {
     "_id": 1027,
@@ -4117,7 +4117,7 @@
   },
   {
     "_id": 1030,
-    "nom": "(33000) Académie de la Coiffure et D'Esthétique de la Gironde"
+    "nom": "(33000) Académie de la Coiffure et d'Esthétique de la Gironde"
   },
   {
     "_id": 1031,
@@ -4125,11 +4125,11 @@
   },
   {
     "_id": 1032,
-    "nom": "(33000) Ecole D'Esthétique Françoise B"
+    "nom": "(33000) Ecole d'Esthétique Françoise B"
   },
   {
     "_id": 1033,
-    "nom": "(33000) Ecole Privée D'Esthétique et de Coiffure Alain Bergé"
+    "nom": "(33000) Ecole Privée d'Esthétique et de Coiffure Alain Bergé"
   },
   {
     "_id": 1034,
@@ -4217,7 +4217,7 @@
   },
   {
     "_id": 1055,
-    "nom": "(33000) Lycée Professionnel ALycée Professionnelhonse Beau de Rochas"
+    "nom": "(33000) Lycée Professionnel Alycée Professionnelhonse Beau de Rochas"
   },
   {
     "_id": 1056,
@@ -4269,11 +4269,11 @@
   },
   {
     "_id": 1068,
-    "nom": "(33130) Lycée V·Clav Havel"
+    "nom": "(33130) Lycée V·clav Havel"
   },
   {
     "_id": 1069,
-    "nom": "(33140) Institut Des Sciences de la Nature et de L'Agroalimentaire de Bordeaux"
+    "nom": "(33140) Institut des Sciences de la Nature et de l'Agroalimentaire de Bordeaux"
   },
   {
     "_id": 1070,
@@ -4305,7 +4305,7 @@
   },
   {
     "_id": 1077,
-    "nom": "(33210) Lycée Professionnel Agricole De la Tour Blanche"
+    "nom": "(33210) Lycée Professionnel Agricole de la Tour Blanche"
   },
   {
     "_id": 1078,
@@ -4325,7 +4325,7 @@
   },
   {
     "_id": 1082,
-    "nom": "(33230) Lycée Professionnel Privé Jeanne D'Arc"
+    "nom": "(33230) Lycée Professionnel Privé Jeanne d'Arc"
   },
   {
     "_id": 1083,
@@ -4353,11 +4353,11 @@
   },
   {
     "_id": 1089,
-    "nom": "(33290) Lycée Professionnel des Métiers de L'Habitat et des Travaux Publics"
+    "nom": "(33290) Lycée Professionnel des Métiers de l'Habitat et des Travaux Publics"
   },
   {
     "_id": 1090,
-    "nom": "(33290) Lycée Professionnel Privé Saint-Joseph Orphelins Apprentis D'Auteuil"
+    "nom": "(33290) Lycée Professionnel Privé Saint-joseph Orphelins Apprentis d'Auteuil"
   },
   {
     "_id": 1091,
@@ -4393,7 +4393,7 @@
   },
   {
     "_id": 1099,
-    "nom": "(33390) Lycée Professionnel de L'Estuaire"
+    "nom": "(33390) Lycée Professionnel de l'Estuaire"
   },
   {
     "_id": 1100,
@@ -4401,7 +4401,7 @@
   },
   {
     "_id": 1101,
-    "nom": "(33400) Lycée D'Hôtellerie et de Tourisme de Gascogne"
+    "nom": "(33400) Lycée d'Hôtellerie et de Tourisme de Gascogne"
   },
   {
     "_id": 1102,
@@ -4457,7 +4457,7 @@
   },
   {
     "_id": 1115,
-    "nom": "(33600) Lycée Professionnel PhiladeLycée Professionnelhe de Gerde"
+    "nom": "(33600) Lycée Professionnel Philadelycée Professionnelhe de Gerde"
   },
   {
     "_id": 1116,
@@ -4477,11 +4477,11 @@
   },
   {
     "_id": 1120,
-    "nom": "(34000) Etablissement Technique Privé de Coiffure et D'Esthétique"
+    "nom": "(34000) Etablissement Technique Privé de Coiffure et d'Esthétique"
   },
   {
     "_id": 1121,
-    "nom": "(34000) Internat D'Excellence de Montpellier"
+    "nom": "(34000) Internat d'Excellence de Montpellier"
   },
   {
     "_id": 1122,
@@ -4541,7 +4541,7 @@
   },
   {
     "_id": 1136,
-    "nom": "(34000) Section D'Enseignement Générale et Technologique du Lycée Frédéric Bazille"
+    "nom": "(34000) Section d'Enseignement Générale et Technologique du Lycée Frédéric Bazille"
   },
   {
     "_id": 1137,
@@ -4577,7 +4577,7 @@
   },
   {
     "_id": 1145,
-    "nom": "(34170) Section D'Enseignement Professionnel Georges Pompidou"
+    "nom": "(34170) Section d'Enseignement Professionnel Georges Pompidou"
   },
   {
     "_id": 1146,
@@ -4625,7 +4625,7 @@
   },
   {
     "_id": 1157,
-    "nom": "(34310) Lycée D'Enseignement Agricole Privé"
+    "nom": "(34310) Lycée d'Enseignement Agricole Privé"
   },
   {
     "_id": 1158,
@@ -4685,11 +4685,11 @@
   },
   {
     "_id": 1172,
-    "nom": "(34770) Lycée D'Enseignement Agricole Privé la Gardiole"
+    "nom": "(34770) Lycée d'Enseignement Agricole Privé la Gardiole"
   },
   {
     "_id": 1173,
-    "nom": "(34800) Lycée D'Enseignement Professionnel Agricole Privé le Cep D'Or"
+    "nom": "(34800) Lycée d'Enseignement Professionnel Agricole Privé le Cep d'Or"
   },
   {
     "_id": 1174,
@@ -4713,7 +4713,7 @@
   },
   {
     "_id": 1179,
-    "nom": "(34980) Section D'Enseignement Professionnel Jean Jaurès"
+    "nom": "(34980) Section d'Enseignement Professionnel Jean Jaurès"
   },
   {
     "_id": 1180,
@@ -4753,15 +4753,15 @@
   },
   {
     "_id": 1189,
-    "nom": "(35000) Lycée et Section D'Enseignement Professionnel Jeanne D'Arc"
+    "nom": "(35000) Lycée et Section d'Enseignement Professionnel Jeanne d'Arc"
   },
   {
     "_id": 1190,
-    "nom": "(35000) Lycée et Section D'Enseignement Professionnel Pierre Mendès France"
+    "nom": "(35000) Lycée et Section d'Enseignement Professionnel Pierre Mendès France"
   },
   {
     "_id": 1191,
-    "nom": "(35000) Lycée et Section D'Enseignement Professionnel Saint-Vincent la Providence"
+    "nom": "(35000) Lycée et Section d'Enseignement Professionnel Saint-Vincent la Providence"
   },
   {
     "_id": 1192,
@@ -4809,7 +4809,7 @@
   },
   {
     "_id": 1203,
-    "nom": "(35120) Lycée Professionnel ALycée Professionnelhonse Pellé"
+    "nom": "(35120) Lycée Professionnel Alycée Professionnelhonse Pellé"
   },
   {
     "_id": 1204,
@@ -4885,7 +4885,7 @@
   },
   {
     "_id": 1222,
-    "nom": "(35360) Lycée et Section D'Enseignement Professionnel la Providence"
+    "nom": "(35360) Lycée et Section d'Enseignement Professionnel la Providence"
   },
   {
     "_id": 1223,
@@ -4929,11 +4929,11 @@
   },
   {
     "_id": 1233,
-    "nom": "(35500) Lycée Bertrand D'Argentré"
+    "nom": "(35500) Lycée Bertrand d'Argentré"
   },
   {
     "_id": 1234,
-    "nom": "(35500) Lycée Jeanne D'Arc"
+    "nom": "(35500) Lycée Jeanne d'Arc"
   },
   {
     "_id": 1235,
@@ -4941,7 +4941,7 @@
   },
   {
     "_id": 1236,
-    "nom": "(35510) Lycée et Section D'Enseignement Professionnel Saint-Etienne"
+    "nom": "(35510) Lycée et Section d'Enseignement Professionnel Saint-Etienne"
   },
   {
     "_id": 1237,
@@ -4957,7 +4957,7 @@
   },
   {
     "_id": 1240,
-    "nom": "(35600) Lycée et Section D'Enseignement Professionnel Marcel Callo"
+    "nom": "(35600) Lycée et Section d'Enseignement Professionnel Marcel Callo"
   },
   {
     "_id": 1241,
@@ -4973,7 +4973,7 @@
   },
   {
     "_id": 1244,
-    "nom": "(35650) Section D'Enseignement Général et Technologique du Lycée Théodore Monod"
+    "nom": "(35650) Section d'Enseignement Général et Technologique du Lycée Théodore Monod"
   },
   {
     "_id": 1245,
@@ -4981,7 +4981,7 @@
   },
   {
     "_id": 1246,
-    "nom": "(35800) Lycée et Section D'Enseignement Professionnel Hôtelier"
+    "nom": "(35800) Lycée et Section d'Enseignement Professionnel Hôtelier"
   },
   {
     "_id": 1247,
@@ -5021,7 +5021,7 @@
   },
   {
     "_id": 1256,
-    "nom": "(36100) Lycée Professionnel Jean D'Alembert"
+    "nom": "(36100) Lycée Professionnel Jean d'Alembert"
   },
   {
     "_id": 1257,
@@ -5049,7 +5049,7 @@
   },
   {
     "_id": 1263,
-    "nom": "(36700) Lycée D'Enseignement Agricole Privé"
+    "nom": "(36700) Lycée d'Enseignement Agricole Privé"
   },
   {
     "_id": 1264,
@@ -5085,7 +5085,7 @@
   },
   {
     "_id": 1272,
-    "nom": "(37000) Lycée Polyvalent Privé D'Esthétique Cosmétique de Touraine"
+    "nom": "(37000) Lycée Polyvalent Privé d'Esthétique Cosmétique de Touraine"
   },
   {
     "_id": 1273,
@@ -5093,7 +5093,7 @@
   },
   {
     "_id": 1274,
-    "nom": "(37000) Lycée Privé Saint-François Saint-Medard Notre-Dame-La-Riche"
+    "nom": "(37000) Lycée Privé Saint-François Saint-Medard Notre-Dame-la-Riche"
   },
   {
     "_id": 1275,
@@ -5161,7 +5161,7 @@
   },
   {
     "_id": 1291,
-    "nom": "(37300) Lycée Professionnel D'Arsonval"
+    "nom": "(37300) Lycée Professionnel d'Arsonval"
   },
   {
     "_id": 1292,
@@ -5169,7 +5169,7 @@
   },
   {
     "_id": 1293,
-    "nom": "(37400) Lycée Professionnel Agricole D'Amboise"
+    "nom": "(37400) Lycée Professionnel Agricole d'Amboise"
   },
   {
     "_id": 1294,
@@ -5193,7 +5193,7 @@
   },
   {
     "_id": 1299,
-    "nom": "(37600) Lycée Horticole et Paysager Privé Sainte Jeanne D'Arc"
+    "nom": "(37600) Lycée Horticole et Paysager Privé Sainte Jeanne d'Arc"
   },
   {
     "_id": 1300,
@@ -5213,11 +5213,11 @@
   },
   {
     "_id": 1304,
-    "nom": "(38000) Ecole Academy de Coiffure Et D'Esthétique Etp"
+    "nom": "(38000) Ecole Academy de Coiffure et d'Esthétique Etp"
   },
   {
     "_id": 1305,
-    "nom": "(38000) Ecole Libre D'Apprentissage de Grenoble Elag Ecole de Production"
+    "nom": "(38000) Ecole Libre d'Apprentissage de Grenoble Elag Ecole de Production"
   },
   {
     "_id": 1306,
@@ -5285,7 +5285,7 @@
   },
   {
     "_id": 1322,
-    "nom": "(38000) Sup2I"
+    "nom": "(38000) Sup2i"
   },
   {
     "_id": 1323,
@@ -5317,7 +5317,7 @@
   },
   {
     "_id": 1330,
-    "nom": "(38160) Lycée D'Enseignement Technologique Privé Bellevue"
+    "nom": "(38160) Lycée d'Enseignement Technologique Privé Bellevue"
   },
   {
     "_id": 1331,
@@ -5337,7 +5337,7 @@
   },
   {
     "_id": 1335,
-    "nom": "(38200) Institution Robin Saint-Vincent De Paul - Lycée Hôtelier Bellerive"
+    "nom": "(38200) Institution Robin Saint-Vincent de Paul - Lycée Hôtelier Bellerive"
   },
   {
     "_id": 1336,
@@ -5357,7 +5357,7 @@
   },
   {
     "_id": 1340,
-    "nom": "(38220) Lycée Portes de L'Oisans"
+    "nom": "(38220) Lycée Portes de l'Oisans"
   },
   {
     "_id": 1341,
@@ -5365,7 +5365,7 @@
   },
   {
     "_id": 1342,
-    "nom": "(38230) Lycée Professionnel L'Odyssée"
+    "nom": "(38230) Lycée Professionnel l'Odyssée"
   },
   {
     "_id": 1343,
@@ -5401,7 +5401,7 @@
   },
   {
     "_id": 1351,
-    "nom": "(38300) Lycée L'Oiselet"
+    "nom": "(38300) Lycée l'Oiselet"
   },
   {
     "_id": 1352,
@@ -5417,7 +5417,7 @@
   },
   {
     "_id": 1355,
-    "nom": "(38330) Ecole des Pupilles De L'Air - Lycée de la Défense"
+    "nom": "(38330) Ecole des Pupilles de l'Air - Lycée de la Défense"
   },
   {
     "_id": 1356,
@@ -5433,11 +5433,11 @@
   },
   {
     "_id": 1359,
-    "nom": "(38350) Lycée Professionnel Privé ALycée Professionneles Sud-Isère"
+    "nom": "(38350) Lycée Professionnel Privé Alycée Professionneles Sud-Isère"
   },
   {
     "_id": 1360,
-    "nom": "(38350) Lycée Professionnel Privé Rural des ALycée Professionneles"
+    "nom": "(38350) Lycée Professionnel Privé Rural des Alycée Professionneles"
   },
   {
     "_id": 1361,
@@ -5457,15 +5457,15 @@
   },
   {
     "_id": 1365,
-    "nom": "(38440) Lycée D'Enseignement Agricole Privé Vallon Bonnevaux - Site De St-Jean de Bournay"
+    "nom": "(38440) Lycée d'Enseignement Agricole Privé Vallon Bonnevaux - Site de St-Jean de Bournay"
   },
   {
     "_id": 1366,
-    "nom": "(38460) Lycée D'Enseignement Agricole Privé Paul Claudel - Site de Villemoirieu"
+    "nom": "(38460) Lycée d'Enseignement Agricole Privé Paul Claudel - Site de Villemoirieu"
   },
   {
     "_id": 1367,
-    "nom": "(38460) Lycée D'Enseignement Agricole Privé Paul Claudel- Site de Crémieu"
+    "nom": "(38460) Lycée d'Enseignement Agricole Privé Paul Claudel- Site de Crémieu"
   },
   {
     "_id": 1368,
@@ -5473,7 +5473,7 @@
   },
   {
     "_id": 1369,
-    "nom": "(38480) Lycée Privé du Guiers-Val D'Ainan"
+    "nom": "(38480) Lycée Privé du Guiers-val d'Ainan"
   },
   {
     "_id": 1370,
@@ -5509,11 +5509,11 @@
   },
   {
     "_id": 1378,
-    "nom": "(38550) Lycée de L'Edit"
+    "nom": "(38550) Lycée de l'Edit"
   },
   {
     "_id": 1379,
-    "nom": "(38550) Lycée Privé Jeanne D'Arc"
+    "nom": "(38550) Lycée Privé Jeanne d'Arc"
   },
   {
     "_id": 1380,
@@ -5529,7 +5529,7 @@
   },
   {
     "_id": 1383,
-    "nom": "(38690) Lycée D'Enseignement Agricole Privé Vallon Bonnevaux - Site de Chabons"
+    "nom": "(38690) Lycée d'Enseignement Agricole Privé Vallon Bonnevaux - Site de Chabons"
   },
   {
     "_id": 1384,
@@ -5545,7 +5545,7 @@
   },
   {
     "_id": 1387,
-    "nom": "(38870) Lycée D'Enseignement Agricole Privé Saint-Exupéry"
+    "nom": "(38870) Lycée d'Enseignement Agricole Privé Saint-Exupéry"
   },
   {
     "_id": 1388,
@@ -5601,7 +5601,7 @@
   },
   {
     "_id": 1401,
-    "nom": "(39270) Lycée Privé D'Enseignement Général Notre-Dame de L'Annonciation"
+    "nom": "(39270) Lycée Privé d'Enseignement Général Notre-dame de l'Annonciation"
   },
   {
     "_id": 1402,
@@ -5609,7 +5609,7 @@
   },
   {
     "_id": 1403,
-    "nom": "(39300) Lycée Privé Jeanne D'Arc"
+    "nom": "(39300) Lycée Privé Jeanne d'Arc"
   },
   {
     "_id": 1404,
@@ -5629,11 +5629,11 @@
   },
   {
     "_id": 1408,
-    "nom": "(39570) Lycée Agricole De Lons le Saunier Edgar Faure"
+    "nom": "(39570) Lycée Agricole de Lons le Saunier Edgar Faure"
   },
   {
     "_id": 1409,
-    "nom": "(39800) Ecole D'Industrie Laitière"
+    "nom": "(39800) Ecole d'Industrie Laitière"
   },
   {
     "_id": 1410,
@@ -5641,7 +5641,7 @@
   },
   {
     "_id": 1411,
-    "nom": "(39800) Section D'Enseignement Professionnel Lycée de Poligny"
+    "nom": "(39800) Section d'Enseignement Professionnel Lycée de Poligny"
   },
   {
     "_id": 1412,
@@ -5733,7 +5733,7 @@
   },
   {
     "_id": 1434,
-    "nom": "(40800) Lycée Professionnel Jean D'Arcet"
+    "nom": "(40800) Lycée Professionnel Jean d'Arcet"
   },
   {
     "_id": 1435,
@@ -5753,7 +5753,7 @@
   },
   {
     "_id": 1439,
-    "nom": "(41000) Lycée D'Hôtellerie et de Tourisme du Val de Loire"
+    "nom": "(41000) Lycée d'Hôtellerie et de Tourisme du Val de Loire"
   },
   {
     "_id": 1440,
@@ -5777,7 +5777,7 @@
   },
   {
     "_id": 1445,
-    "nom": "(41000) Lycée D'Hôtellerie et Tourisme"
+    "nom": "(41000) Lycée d'Hôtellerie et Tourisme"
   },
   {
     "_id": 1446,
@@ -5817,7 +5817,7 @@
   },
   {
     "_id": 1455,
-    "nom": "(41800) Lycée D'Enseignement Agricole Privé Sainte-Cécile"
+    "nom": "(41800) Lycée d'Enseignement Agricole Privé Sainte-Cécile"
   },
   {
     "_id": 1456,
@@ -5825,7 +5825,7 @@
   },
   {
     "_id": 1457,
-    "nom": "(42000) Association Forézienne D'Écoles de Production"
+    "nom": "(42000) Association Forézienne d'Écoles de Production"
   },
   {
     "_id": 1458,
@@ -5849,7 +5849,7 @@
   },
   {
     "_id": 1463,
-    "nom": "(42000) Lycée Honoré D'Urfé"
+    "nom": "(42000) Lycée Honoré d'Urfé"
   },
   {
     "_id": 1464,
@@ -5905,7 +5905,7 @@
   },
   {
     "_id": 1477,
-    "nom": "(42110) Lycée Technique le Puits de L'Aune"
+    "nom": "(42110) Lycée Technique le Puits de l'Aune"
   },
   {
     "_id": 1478,
@@ -5917,11 +5917,11 @@
   },
   {
     "_id": 1480,
-    "nom": "(42130) Lycée L'Astrée"
+    "nom": "(42130) Lycée l'Astrée"
   },
   {
     "_id": 1481,
-    "nom": "(42140) Lycée de Chazelles-Sur-Lyon"
+    "nom": "(42140) Lycée de Chazelles-sur-Lyon"
   },
   {
     "_id": 1482,
@@ -5989,7 +5989,7 @@
   },
   {
     "_id": 1498,
-    "nom": "(42400) Lycée Sainte-Marie - la Grand'Grange"
+    "nom": "(42400) Lycée Sainte-Marie - la grand'Grange"
   },
   {
     "_id": 1499,
@@ -6033,7 +6033,7 @@
   },
   {
     "_id": 1509,
-    "nom": "(42600) Lycée Professionnel Jean-Baptiste D'Allard"
+    "nom": "(42600) Lycée Professionnel Jean-baptiste d'Allard"
   },
   {
     "_id": 1510,
@@ -6125,7 +6125,7 @@
   },
   {
     "_id": 1532,
-    "nom": "(43200) Lycée D'Enseignement Agricole Privé Eugénie Joubert"
+    "nom": "(43200) Lycée d'Enseignement Agricole Privé Eugénie Joubert"
   },
   {
     "_id": 1533,
@@ -6149,7 +6149,7 @@
   },
   {
     "_id": 1538,
-    "nom": "(44000) Ecole Française de Coiffure et D'Esthétique"
+    "nom": "(44000) Ecole Française de Coiffure et d'Esthétique"
   },
   {
     "_id": 1539,
@@ -6173,7 +6173,7 @@
   },
   {
     "_id": 1544,
-    "nom": "(44000) Lycée Gabriel Guist'Hau"
+    "nom": "(44000) Lycée Gabriel guist'Hau"
   },
   {
     "_id": 1545,
@@ -6237,7 +6237,7 @@
   },
   {
     "_id": 1560,
-    "nom": "(44000) Lycée Professionnel L.A. de Bougainville"
+    "nom": "(44000) Lycée Professionnel L.a. de Bougainville"
   },
   {
     "_id": 1561,
@@ -6301,7 +6301,7 @@
   },
   {
     "_id": 1576,
-    "nom": "(44150) Lycée Briacé - Site D'Ancenis"
+    "nom": "(44150) Lycée Briacé - Site d'Ancenis"
   },
   {
     "_id": 1577,
@@ -6313,7 +6313,7 @@
   },
   {
     "_id": 1579,
-    "nom": "(44150) Lycée Professionnel Saint-Thomas D'Aquin"
+    "nom": "(44150) Lycée Professionnel Saint-thomas d'Aquin"
   },
   {
     "_id": 1580,
@@ -6381,7 +6381,7 @@
   },
   {
     "_id": 1596,
-    "nom": "(44340) Lycée Professionnel Daniel Brottier - Fondation D'Auteuil"
+    "nom": "(44340) Lycée Professionnel Daniel Brottier - Fondation d'Auteuil"
   },
   {
     "_id": 1597,
@@ -6405,7 +6405,7 @@
   },
   {
     "_id": 1602,
-    "nom": "(44390) Lycée Professionnelp de L'Erdre"
+    "nom": "(44390) Lycée Professionnelp de l'Erdre"
   },
   {
     "_id": 1603,
@@ -6453,7 +6453,7 @@
   },
   {
     "_id": 1614,
-    "nom": "(44590) Ecole D'Agriculture de Derval"
+    "nom": "(44590) Ecole d'Agriculture de Derval"
   },
   {
     "_id": 1615,
@@ -6465,7 +6465,7 @@
   },
   {
     "_id": 1617,
-    "nom": "(44600) Lycée Notre-Dame D'Espérance"
+    "nom": "(44600) Lycée Notre-dame d'Espérance"
   },
   {
     "_id": 1618,
@@ -6513,7 +6513,7 @@
   },
   {
     "_id": 1629,
-    "nom": "(44830) Lycée Alcide D'Orbigny"
+    "nom": "(44830) Lycée Alcide d'Orbigny"
   },
   {
     "_id": 1630,
@@ -6569,7 +6569,7 @@
   },
   {
     "_id": 1643,
-    "nom": "(45140) Section D'Enseignement Général et Technologique Du Lycée Professionnel Maréchal Leclerc"
+    "nom": "(45140) Section d'Enseignement Général et Technologique du Lycée Professionnel Maréchal Leclerc"
   },
   {
     "_id": 1644,
@@ -6577,7 +6577,7 @@
   },
   {
     "_id": 1645,
-    "nom": "(45160) Section D'Enseignement Général et Technologique du Lycée Hôtelier de L'Orléanais"
+    "nom": "(45160) Section d'Enseignement Général et Technologique du Lycée Hôtelier de l'Orléanais"
   },
   {
     "_id": 1646,
@@ -6585,7 +6585,7 @@
   },
   {
     "_id": 1647,
-    "nom": "(45190) Lycée Professionnel Privé de L'Abbaye"
+    "nom": "(45190) Lycée Professionnel Privé de l'Abbaye"
   },
   {
     "_id": 1648,
@@ -6649,7 +6649,7 @@
   },
   {
     "_id": 1663,
-    "nom": "(45800) Section D'Enseignement Général et Technologique du Lycée Professionnel Gaudier-Brzeska"
+    "nom": "(45800) Section d'Enseignement Général et Technologique du Lycée Professionnel Gaudier-Brzeska"
   },
   {
     "_id": 1664,
@@ -6677,7 +6677,7 @@
   },
   {
     "_id": 1670,
-    "nom": "(46100) Lycée Polyvalent Privé Jeanne D'Arc"
+    "nom": "(46100) Lycée Polyvalent Privé Jeanne d'Arc"
   },
   {
     "_id": 1671,
@@ -6713,7 +6713,7 @@
   },
   {
     "_id": 1679,
-    "nom": "(47000) Lycée Professionnel Agricole Privé L'Ermitage"
+    "nom": "(47000) Lycée Professionnel Agricole Privé l'Ermitage"
   },
   {
     "_id": 1680,
@@ -6741,7 +6741,7 @@
   },
   {
     "_id": 1686,
-    "nom": "(47300) Lycée L'Oustal, Lycée Privé des Métiers De la Vie Rurale"
+    "nom": "(47300) Lycée l'Oustal, Lycée Privé des Métiers de la Vie Rurale"
   },
   {
     "_id": 1687,
@@ -6761,7 +6761,7 @@
   },
   {
     "_id": 1691,
-    "nom": "(47500) Lycée Professionnel Benoót D'Azy"
+    "nom": "(47500) Lycée Professionnel Benoót d'Azy"
   },
   {
     "_id": 1692,
@@ -6797,7 +6797,7 @@
   },
   {
     "_id": 1700,
-    "nom": "(48100) Lycée D'Enseignement Agricole Privé Terre Nouvelle"
+    "nom": "(48100) Lycée d'Enseignement Agricole Privé Terre Nouvelle"
   },
   {
     "_id": 1701,
@@ -6821,7 +6821,7 @@
   },
   {
     "_id": 1706,
-    "nom": "(48200) Section D'Enseignement Professionnel Théophile Roussel"
+    "nom": "(48200) Section d'Enseignement Professionnel Théophile Roussel"
   },
   {
     "_id": 1707,
@@ -6829,7 +6829,7 @@
   },
   {
     "_id": 1708,
-    "nom": "(48300) Section D'Enseignement Professionnel Privé Ensemble Scolaire St Pierre St Paul"
+    "nom": "(48300) Section d'Enseignement Professionnel Privé Ensemble Scolaire St Pierre St Paul"
   },
   {
     "_id": 1709,
@@ -6837,7 +6837,7 @@
   },
   {
     "_id": 1710,
-    "nom": "(49000) Ecole Française de Coiffure et D'Esthétique"
+    "nom": "(49000) Ecole Française de Coiffure et d'Esthétique"
   },
   {
     "_id": 1711,
@@ -6857,7 +6857,7 @@
   },
   {
     "_id": 1715,
-    "nom": "(49000) Lycée David D'Angers"
+    "nom": "(49000) Lycée David d'Angers"
   },
   {
     "_id": 1716,
@@ -6905,11 +6905,11 @@
   },
   {
     "_id": 1727,
-    "nom": "(49120) Ltp Robert D'Arbrissel"
+    "nom": "(49120) Ltp Robert d'Arbrissel"
   },
   {
     "_id": 1728,
-    "nom": "(49120) Lycée Polyvalent de L'Hyrôme"
+    "nom": "(49120) Lycée Polyvalent de l'Hyrôme"
   },
   {
     "_id": 1729,
@@ -6929,7 +6929,7 @@
   },
   {
     "_id": 1733,
-    "nom": "(49300) Ecole Française de Coiffure et D'Esthétique"
+    "nom": "(49300) Ecole Française de Coiffure et d'Esthétique"
   },
   {
     "_id": 1734,
@@ -6985,7 +6985,7 @@
   },
   {
     "_id": 1747,
-    "nom": "(49500) Lycée Notre-Dame D'Orveau"
+    "nom": "(49500) Lycée Notre-dame d'Orveau"
   },
   {
     "_id": 1748,
@@ -7097,7 +7097,7 @@
   },
   {
     "_id": 1775,
-    "nom": "(50310) Institut Agricole de L'Abbaye"
+    "nom": "(50310) Institut Agricole de l'Abbaye"
   },
   {
     "_id": 1776,
@@ -7209,7 +7209,7 @@
   },
   {
     "_id": 1803,
-    "nom": "(51100) Lycée Professionnel Jeanne D'Arc"
+    "nom": "(51100) Lycée Professionnel Jeanne d'Arc"
   },
   {
     "_id": 1804,
@@ -7261,7 +7261,7 @@
   },
   {
     "_id": 1816,
-    "nom": "(51300) Lycée François 1Er"
+    "nom": "(51300) Lycée François 1er"
   },
   {
     "_id": 1817,
@@ -7277,7 +7277,7 @@
   },
   {
     "_id": 1820,
-    "nom": "(52000) Lycée Agricole, Pôle D'Enseignement Agricole Public Edgard Pisani"
+    "nom": "(52000) Lycée Agricole, Pôle d'Enseignement Agricole Public Edgard Pisani"
   },
   {
     "_id": 1821,
@@ -7337,11 +7337,11 @@
   },
   {
     "_id": 1835,
-    "nom": "(53000) Lycée D'Avesnières"
+    "nom": "(53000) Lycée d'Avesnières"
   },
   {
     "_id": 1836,
-    "nom": "(53000) Lycée De L'Immaculée Conception"
+    "nom": "(53000) Lycée de l'Immaculée Conception"
   },
   {
     "_id": 1837,
@@ -7405,7 +7405,7 @@
   },
   {
     "_id": 1852,
-    "nom": "(53500) Legtap Rochefeuille - Antenne D'Ernée"
+    "nom": "(53500) Legtap Rochefeuille - Antenne d'Ernée"
   },
   {
     "_id": 1853,
@@ -7417,7 +7417,7 @@
   },
   {
     "_id": 1855,
-    "nom": "(54000) Ecole Internationale D'Esthétique et de Haute Coiffure Mireille"
+    "nom": "(54000) Ecole Internationale d'Esthétique et de Haute Coiffure Mireille"
   },
   {
     "_id": 1856,
@@ -7449,7 +7449,7 @@
   },
   {
     "_id": 1863,
-    "nom": "(54000) Lycée Jeanne D'Arc"
+    "nom": "(54000) Lycée Jeanne d'Arc"
   },
   {
     "_id": 1864,
@@ -7481,15 +7481,15 @@
   },
   {
     "_id": 1871,
-    "nom": "(54110) Lycée Entre Meurthe-Et-Sânon"
+    "nom": "(54110) Lycée Entre Meurthe-et-Sânon"
   },
   {
     "_id": 1872,
-    "nom": "(54140) Lycée la MaLycéerange"
+    "nom": "(54140) Lycée la Malycéerange"
   },
   {
     "_id": 1873,
-    "nom": "(54150) Lycée de L'Assomption"
+    "nom": "(54150) Lycée de l'Assomption"
   },
   {
     "_id": 1874,
@@ -7509,11 +7509,11 @@
   },
   {
     "_id": 1878,
-    "nom": "(54220) Lycée Agricole de Meurthe-Et-Moselle"
+    "nom": "(54220) Lycée Agricole de Meurthe-et-Moselle"
   },
   {
     "_id": 1879,
-    "nom": "(54300) Lycée Des Métiers D'Art et de la Maótrise de L'Énergie Électrique Boutet-De-Monvel"
+    "nom": "(54300) Lycée des Métiers d'Art et de la Maótrise de l'Énergie Électrique Boutet-de-Monvel"
   },
   {
     "_id": 1880,
@@ -7529,7 +7529,7 @@
   },
   {
     "_id": 1883,
-    "nom": "(54300) Lycée des Métiers D'Art Et de la Maótrise De L'Énergie Élect"
+    "nom": "(54300) Lycée des Métiers d'Art et de la Maótrise de l'Énergie Élect"
   },
   {
     "_id": 1884,
@@ -7565,7 +7565,7 @@
   },
   {
     "_id": 1892,
-    "nom": "(54510) Lycée Des Métiers des Services et du Commerce Marie Marvingt"
+    "nom": "(54510) Lycée des Métiers des Services et du Commerce Marie Marvingt"
   },
   {
     "_id": 1893,
@@ -7573,7 +7573,7 @@
   },
   {
     "_id": 1894,
-    "nom": "(54520) Lycée Des Métiers du Bâtiment et de L'Énergie Emmanuel Héré"
+    "nom": "(54520) Lycée des Métiers du Bâtiment et de l'Énergie Emmanuel Héré"
   },
   {
     "_id": 1895,
@@ -7645,7 +7645,7 @@
   },
   {
     "_id": 1912,
-    "nom": "(55200) Institution Jeanne D'Arc"
+    "nom": "(55200) Institution Jeanne d'Arc"
   },
   {
     "_id": 1913,
@@ -7673,11 +7673,11 @@
   },
   {
     "_id": 1919,
-    "nom": "(56000) Lycée et Section D'Enseignement Professionnel Notre-Dame le Ménimur"
+    "nom": "(56000) Lycée et Section d'Enseignement Professionnel Notre-Dame le Ménimur"
   },
   {
     "_id": 1920,
-    "nom": "(56000) Lycée et Section D'Enseignement Professionnel Saint-Joseph"
+    "nom": "(56000) Lycée et Section d'Enseignement Professionnel Saint-Joseph"
   },
   {
     "_id": 1921,
@@ -7705,11 +7705,11 @@
   },
   {
     "_id": 1927,
-    "nom": "(56100) Lycée et Section D'Enseignement Professionnel Jean Baptiste Colbert"
+    "nom": "(56100) Lycée et Section d'Enseignement Professionnel Jean Baptiste Colbert"
   },
   {
     "_id": 1928,
-    "nom": "(56100) Lycée et Section D'Enseignement Professionnel Saint-Joseph la Salle"
+    "nom": "(56100) Lycée et Section d'Enseignement Professionnel Saint-Joseph la Salle"
   },
   {
     "_id": 1929,
@@ -7725,7 +7725,7 @@
   },
   {
     "_id": 1932,
-    "nom": "(56110) Lycée Jeanne D'Arc"
+    "nom": "(56110) Lycée Jeanne d'Arc"
   },
   {
     "_id": 1933,
@@ -7761,7 +7761,7 @@
   },
   {
     "_id": 1941,
-    "nom": "(56300) Lycée et Section D'Enseignement Professionnel Jeanne D'Arc Saint-Ivy"
+    "nom": "(56300) Lycée et Section d'Enseignement Professionnel Jeanne d'Arc Saint-Ivy"
   },
   {
     "_id": 1942,
@@ -7777,7 +7777,7 @@
   },
   {
     "_id": 1945,
-    "nom": "(56380) Lycée et Section D'Enseignement Professionnel Brocéliande"
+    "nom": "(56380) Lycée et Section d'Enseignement Professionnel Brocéliande"
   },
   {
     "_id": 1946,
@@ -7789,7 +7789,7 @@
   },
   {
     "_id": 1948,
-    "nom": "(56400) Lycée et Section D'Enseignement Professionnel Sainte-Anne Saint-Louis"
+    "nom": "(56400) Lycée et Section d'Enseignement Professionnel Sainte-Anne Saint-Louis"
   },
   {
     "_id": 1949,
@@ -7813,7 +7813,7 @@
   },
   {
     "_id": 1954,
-    "nom": "(56600) Lycée et Section D'Enseignement Professionnel Jean Macé"
+    "nom": "(56600) Lycée et Section d'Enseignement Professionnel Jean Macé"
   },
   {
     "_id": 1955,
@@ -7841,7 +7841,7 @@
   },
   {
     "_id": 1961,
-    "nom": "(56800) Lycée et Section D'Enseignement Professionnel la Mennais"
+    "nom": "(56800) Lycée et Section d'Enseignement Professionnel la Mennais"
   },
   {
     "_id": 1962,
@@ -7865,11 +7865,11 @@
   },
   {
     "_id": 1967,
-    "nom": "(57000) Lycée des Métiers de L'Hôtellerie et de la Restauration Raymond Mondon"
+    "nom": "(57000) Lycée des Métiers de l'Hôtellerie et de la Restauration Raymond Mondon"
   },
   {
     "_id": 1968,
-    "nom": "(57000) Lycée des Métiers du Sanitaire Et du Social Alain-Fournier"
+    "nom": "(57000) Lycée des Métiers du Sanitaire et du Social Alain-Fournier"
   },
   {
     "_id": 1969,
@@ -7901,7 +7901,7 @@
   },
   {
     "_id": 1976,
-    "nom": "(57000) Lycée Des Métiers de L'Hôtellerie et De la Restauration Raym"
+    "nom": "(57000) Lycée des Métiers de l'Hôtellerie et de la Restauration Raym"
   },
   {
     "_id": 1977,
@@ -7945,7 +7945,7 @@
   },
   {
     "_id": 1987,
-    "nom": "(57157) Lycée des Métiers de L'Automobile André Citroèn"
+    "nom": "(57157) Lycée des Métiers de l'Automobile André Citroèn"
   },
   {
     "_id": 1988,
@@ -8017,7 +8017,7 @@
   },
   {
     "_id": 2005,
-    "nom": "(57350) Lycée des Métiers Des Sciences et des Technologies de L'Information et des Réseaux"
+    "nom": "(57350) Lycée des Métiers des Sciences et des Technologies de l'Information et des Réseaux"
   },
   {
     "_id": 2006,
@@ -8029,7 +8029,7 @@
   },
   {
     "_id": 2008,
-    "nom": "(57380) Centre D'Accueil et de Services Aux Entreprises"
+    "nom": "(57380) Centre d'Accueil et de Services Aux Entreprises"
   },
   {
     "_id": 2009,
@@ -8073,11 +8073,11 @@
   },
   {
     "_id": 2019,
-    "nom": "(57525) Lycée des Métiers des Techniciens de la Motorisation, de la Construction Et De L'Environnement Gusta"
+    "nom": "(57525) Lycée des Métiers des Techniciens de la Motorisation, de la Construction et de l'Environnement Gusta"
   },
   {
     "_id": 2020,
-    "nom": "(57525) Sep du Lycée Des Métiers des Techniciens de la Motorisation, de la Construction et de L'Environnemen"
+    "nom": "(57525) Sep du Lycée des Métiers des Techniciens de la Motorisation, de la Construction et de l'Environnemen"
   },
   {
     "_id": 2021,
@@ -8089,7 +8089,7 @@
   },
   {
     "_id": 2023,
-    "nom": "(57600) Lycée des Métiers de Service ‡ L'Entreprise Blaise Pascal"
+    "nom": "(57600) Lycée des Métiers de Service ‡ l'Entreprise Blaise Pascal"
   },
   {
     "_id": 2024,
@@ -8121,7 +8121,7 @@
   },
   {
     "_id": 2031,
-    "nom": "(57840) Lycée des Métiers De L'Optique Saint-André"
+    "nom": "(57840) Lycée des Métiers de l'Optique Saint-André"
   },
   {
     "_id": 2032,
@@ -8137,7 +8137,7 @@
   },
   {
     "_id": 2035,
-    "nom": "(58000) Lycée Privé L'Espérance"
+    "nom": "(58000) Lycée Privé l'Espérance"
   },
   {
     "_id": 2036,
@@ -8189,7 +8189,7 @@
   },
   {
     "_id": 2048,
-    "nom": "(58330) Institut Privé D'Enseignement Rural Et de Mécanique Agricole"
+    "nom": "(58330) Institut Privé d'Enseignement Rural et de Mécanique Agricole"
   },
   {
     "_id": 2049,
@@ -8237,7 +8237,7 @@
   },
   {
     "_id": 2060,
-    "nom": "(59000) Lycée Privé Notre-Dame D'Annay"
+    "nom": "(59000) Lycée Privé Notre-dame d'Annay"
   },
   {
     "_id": 2061,
@@ -8257,7 +8257,7 @@
   },
   {
     "_id": 2065,
-    "nom": "(59000) Lycée Privé Thérèse D'Avila"
+    "nom": "(59000) Lycée Privé Thérèse d'Avila"
   },
   {
     "_id": 2066,
@@ -8321,7 +8321,7 @@
   },
   {
     "_id": 2081,
-    "nom": "(59100) Lycée Professionnel Privé Saint François D'Assise"
+    "nom": "(59100) Lycée Professionnel Privé Saint François d'Assise"
   },
   {
     "_id": 2082,
@@ -8373,7 +8373,7 @@
   },
   {
     "_id": 2094,
-    "nom": "(59140) Etablissement Public Local D'Enseignement et de Formation Professionnels Agricoles - Site de Dunkerq"
+    "nom": "(59140) Etablissement Public Local d'Enseignement et de Formation Professionnels Agricoles - Site de Dunkerq"
   },
   {
     "_id": 2095,
@@ -8381,7 +8381,7 @@
   },
   {
     "_id": 2096,
-    "nom": "(59140) Lycée de L'Europe"
+    "nom": "(59140) Lycée de l'Europe"
   },
   {
     "_id": 2097,
@@ -8409,7 +8409,7 @@
   },
   {
     "_id": 2103,
-    "nom": "(59146) Institut Privé D'Anchin"
+    "nom": "(59146) Institut Privé d'Anchin"
   },
   {
     "_id": 2104,
@@ -8425,7 +8425,7 @@
   },
   {
     "_id": 2107,
-    "nom": "(59160) Etablissement Public Local D'Enseignement et de Formation Professionnels Agricoles - Site de Lomme"
+    "nom": "(59160) Etablissement Public Local d'Enseignement et de Formation Professionnels Agricoles - Site de Lomme"
   },
   {
     "_id": 2108,
@@ -8489,7 +8489,7 @@
   },
   {
     "_id": 2123,
-    "nom": "(59200) Lycée Privé Jehanne D'Arc"
+    "nom": "(59200) Lycée Privé Jehanne d'Arc"
   },
   {
     "_id": 2124,
@@ -8573,11 +8573,11 @@
   },
   {
     "_id": 2144,
-    "nom": "(59300) École Technologique Privée du V.A.F.C."
+    "nom": "(59300) École Technologique Privée du V.a.f.c."
   },
   {
     "_id": 2145,
-    "nom": "(59300) Lycée de L'Escaut"
+    "nom": "(59300) Lycée de l'Escaut"
   },
   {
     "_id": 2146,
@@ -8625,7 +8625,7 @@
   },
   {
     "_id": 2157,
-    "nom": "(59400) Lycée D'Enseignement Agricole Privé Sainte-Croix"
+    "nom": "(59400) Lycée d'Enseignement Agricole Privé Sainte-Croix"
   },
   {
     "_id": 2158,
@@ -8677,7 +8677,7 @@
   },
   {
     "_id": 2170,
-    "nom": "(59470) Lycée Professionnel de L'Yser"
+    "nom": "(59470) Lycée Professionnel de l'Yser"
   },
   {
     "_id": 2171,
@@ -8705,11 +8705,11 @@
   },
   {
     "_id": 2177,
-    "nom": "(59492) Institut D'Enseignement Technologique Privé"
+    "nom": "(59492) Institut d'Enseignement Technologique Privé"
   },
   {
     "_id": 2178,
-    "nom": "(59500) Internat D'Excellence de Douai"
+    "nom": "(59500) Internat d'Excellence de Douai"
   },
   {
     "_id": 2179,
@@ -8741,7 +8741,7 @@
   },
   {
     "_id": 2186,
-    "nom": "(59530) Legta Du Nord - Site de le Quesnoy"
+    "nom": "(59530) Legta du Nord - Site de le Quesnoy"
   },
   {
     "_id": 2187,
@@ -8757,7 +8757,7 @@
   },
   {
     "_id": 2190,
-    "nom": "(59570) Lycée D'Enseignement Agricole Privé"
+    "nom": "(59570) Lycée d'Enseignement Agricole Privé"
   },
   {
     "_id": 2191,
@@ -8793,7 +8793,7 @@
   },
   {
     "_id": 2199,
-    "nom": "(59620) Lycée Privé Jeanne D'Arc"
+    "nom": "(59620) Lycée Privé Jeanne d'Arc"
   },
   {
     "_id": 2200,
@@ -8833,7 +8833,7 @@
   },
   {
     "_id": 2209,
-    "nom": "(59760) Lycée Professionnel de L'Automobile et du Transport"
+    "nom": "(59760) Lycée Professionnel de l'Automobile et du Transport"
   },
   {
     "_id": 2210,
@@ -8853,7 +8853,7 @@
   },
   {
     "_id": 2214,
-    "nom": "(59940) Centre Rural D'Enseignement et de Promotion"
+    "nom": "(59940) Centre Rural d'Enseignement et de Promotion"
   },
   {
     "_id": 2215,
@@ -8945,7 +8945,7 @@
   },
   {
     "_id": 2237,
-    "nom": "(60200) Lycée Pierre D'Ailly"
+    "nom": "(60200) Lycée Pierre d'Ailly"
   },
   {
     "_id": 2238,
@@ -8965,7 +8965,7 @@
   },
   {
     "_id": 2242,
-    "nom": "(60300) Lycée Professionnel Amyot D'Inville"
+    "nom": "(60300) Lycée Professionnel Amyot d'Inville"
   },
   {
     "_id": 2243,
@@ -9005,7 +9005,7 @@
   },
   {
     "_id": 2252,
-    "nom": "(60600) Legta de L'Oise Antenne D'Airion"
+    "nom": "(60600) Legta de l'Oise Antenne d'Airion"
   },
   {
     "_id": 2253,
@@ -9033,7 +9033,7 @@
   },
   {
     "_id": 2259,
-    "nom": "(61000) Association Pour le Développement De la Formation Industrielle"
+    "nom": "(61000) Association Pour le Développement de la Formation Industrielle"
   },
   {
     "_id": 2260,
@@ -9049,7 +9049,7 @@
   },
   {
     "_id": 2263,
-    "nom": "(61000) Lycée Professionnel Agricole D'Alençon"
+    "nom": "(61000) Lycée Professionnel Agricole d'Alençon"
   },
   {
     "_id": 2264,
@@ -9073,11 +9073,11 @@
   },
   {
     "_id": 2269,
-    "nom": "(61100) Lycée Saint-Thomas D'Aquin"
+    "nom": "(61100) Lycée Saint-thomas d'Aquin"
   },
   {
     "_id": 2270,
-    "nom": "(61200) Lycée Jeanne D'Arc"
+    "nom": "(61200) Lycée Jeanne d'Arc"
   },
   {
     "_id": 2271,
@@ -9105,7 +9105,7 @@
   },
   {
     "_id": 2277,
-    "nom": "(61500) Institut Croix-Des-Vents"
+    "nom": "(61500) Institut Croix-des-Vents"
   },
   {
     "_id": 2278,
@@ -9129,7 +9129,7 @@
   },
   {
     "_id": 2283,
-    "nom": "(62000) Ecole Européenne D'Esthétique"
+    "nom": "(62000) Ecole Européenne d'Esthétique"
   },
   {
     "_id": 2284,
@@ -9197,11 +9197,11 @@
   },
   {
     "_id": 2300,
-    "nom": "(62116) Lycée D'Enseignement Agricole Privé le Druet"
+    "nom": "(62116) Lycée d'Enseignement Agricole Privé le Druet"
   },
   {
     "_id": 2301,
-    "nom": "(62120) Lycée D'Enseignement Agricole Privé Sainte-Marie"
+    "nom": "(62120) Lycée d'Enseignement Agricole Privé Sainte-Marie"
   },
   {
     "_id": 2302,
@@ -9217,7 +9217,7 @@
   },
   {
     "_id": 2305,
-    "nom": "(62137) Lycée D'Enseignement Agricole Privé Saint Joseph"
+    "nom": "(62137) Lycée d'Enseignement Agricole Privé Saint Joseph"
   },
   {
     "_id": 2306,
@@ -9257,7 +9257,7 @@
   },
   {
     "_id": 2315,
-    "nom": "(62217) Legta du Pas de Calais - Site D'Arras"
+    "nom": "(62217) Legta du Pas de Calais - Site d'Arras"
   },
   {
     "_id": 2316,
@@ -9297,7 +9297,7 @@
   },
   {
     "_id": 2325,
-    "nom": "(62290) Lycée Polyvalent D'Artois"
+    "nom": "(62290) Lycée Polyvalent d'Artois"
   },
   {
     "_id": 2326,
@@ -9317,7 +9317,7 @@
   },
   {
     "_id": 2330,
-    "nom": "(62310) Legta Du Pas de Calais - Site de Radinghem"
+    "nom": "(62310) Legta du Pas de Calais - Site de Radinghem"
   },
   {
     "_id": 2331,
@@ -9413,7 +9413,7 @@
   },
   {
     "_id": 2354,
-    "nom": "(62690) Lycée D'Enseignement Agricole Privé"
+    "nom": "(62690) Lycée d'Enseignement Agricole Privé"
   },
   {
     "_id": 2355,
@@ -9441,7 +9441,7 @@
   },
   {
     "_id": 2361,
-    "nom": "(63000) Ecole D'Enseignement Technique Michelin"
+    "nom": "(63000) Ecole d'Enseignement Technique Michelin"
   },
   {
     "_id": 2362,
@@ -9461,7 +9461,7 @@
   },
   {
     "_id": 2366,
-    "nom": "(63000) Lycée Jeanne D'Arc"
+    "nom": "(63000) Lycée Jeanne d'Arc"
   },
   {
     "_id": 2367,
@@ -9509,7 +9509,7 @@
   },
   {
     "_id": 2378,
-    "nom": "(63000) Section D'Enseignement Général et Technologique du Lycée Marie Curie"
+    "nom": "(63000) Section d'Enseignement Général et Technologique du Lycée Marie Curie"
   },
   {
     "_id": 2379,
@@ -9557,11 +9557,11 @@
   },
   {
     "_id": 2390,
-    "nom": "(63380) Eplea des Combrailles Pontaumur-Saint-Gervais D'Auvergne"
+    "nom": "(63380) Eplea des Combrailles Pontaumur-Saint-gervais d'Auvergne"
   },
   {
     "_id": 2391,
-    "nom": "(63390) Eplea des Combrailles Pontaumur-Saint-Gervais D'Auvergne"
+    "nom": "(63390) Eplea des Combrailles Pontaumur-Saint-gervais d'Auvergne"
   },
   {
     "_id": 2392,
@@ -9601,7 +9601,7 @@
   },
   {
     "_id": 2401,
-    "nom": "(63580) Lycée D'Enseignement Agricole Privé Massabielle"
+    "nom": "(63580) Lycée d'Enseignement Agricole Privé Massabielle"
   },
   {
     "_id": 2402,
@@ -9617,7 +9617,7 @@
   },
   {
     "_id": 2405,
-    "nom": "(63700) Section D'Enseignement Général et Technologique du Lycée Desaix"
+    "nom": "(63700) Section d'Enseignement Général et Technologique du Lycée Desaix"
   },
   {
     "_id": 2406,
@@ -9705,7 +9705,7 @@
   },
   {
     "_id": 2427,
-    "nom": "(64110) Lycée Professionnel de L'Habitat"
+    "nom": "(64110) Lycée Professionnel de l'Habitat"
   },
   {
     "_id": 2428,
@@ -9737,11 +9737,11 @@
   },
   {
     "_id": 2435,
-    "nom": "(64160) Lycée Professionnel Haute-Vue Pau-Morla‡S"
+    "nom": "(64160) Lycée Professionnel Haute-Vue Pau-Morla‡s"
   },
   {
     "_id": 2436,
-    "nom": "(64200) Ecole D'Esthétique de Biarritz"
+    "nom": "(64200) Ecole d'Esthétique de Biarritz"
   },
   {
     "_id": 2437,
@@ -9777,7 +9777,7 @@
   },
   {
     "_id": 2445,
-    "nom": "(64300) Lycée Privé Jeanne D'Arc"
+    "nom": "(64300) Lycée Privé Jeanne d'Arc"
   },
   {
     "_id": 2446,
@@ -9837,7 +9837,7 @@
   },
   {
     "_id": 2460,
-    "nom": "(64500) Lycée Saint-Thomas D'Aquin"
+    "nom": "(64500) Lycée Saint-thomas d'Aquin"
   },
   {
     "_id": 2461,
@@ -9889,7 +9889,7 @@
   },
   {
     "_id": 2473,
-    "nom": "(65000) Lycée Privé Jeanne D'Arc"
+    "nom": "(65000) Lycée Privé Jeanne d'Arc"
   },
   {
     "_id": 2474,
@@ -9929,7 +9929,7 @@
   },
   {
     "_id": 2483,
-    "nom": "(65100) Lycée Professionnel de L'Arrouza"
+    "nom": "(65100) Lycée Professionnel de l'Arrouza"
   },
   {
     "_id": 2484,
@@ -10177,7 +10177,7 @@
   },
   {
     "_id": 2545,
-    "nom": "(67150) Lycée Professionnel Agricole D'Erstein"
+    "nom": "(67150) Lycée Professionnel Agricole d'Erstein"
   },
   {
     "_id": 2546,
@@ -10185,7 +10185,7 @@
   },
   {
     "_id": 2547,
-    "nom": "(67210) Lycée Agricole D'Obernai"
+    "nom": "(67210) Lycée Agricole d'Obernai"
   },
   {
     "_id": 2548,
@@ -10209,7 +10209,7 @@
   },
   {
     "_id": 2553,
-    "nom": "(67280) Cours Privé Saint-Thomas D'Aquin - Lycée"
+    "nom": "(67280) Cours Privé Saint-thomas d'Aquin - Lycée"
   },
   {
     "_id": 2554,
@@ -10253,7 +10253,7 @@
   },
   {
     "_id": 2564,
-    "nom": "(67500) Lycée ALycée Professionnelhonse Heinrich"
+    "nom": "(67500) Lycée Alycée Professionnelhonse Heinrich"
   },
   {
     "_id": 2565,
@@ -10277,7 +10277,7 @@
   },
   {
     "_id": 2570,
-    "nom": "(67600) Lycée Polyvalent Jean Baptiste SchwiLycéeué"
+    "nom": "(67600) Lycée Polyvalent Jean Baptiste Schwilycéeué"
   },
   {
     "_id": 2571,
@@ -10361,7 +10361,7 @@
   },
   {
     "_id": 2591,
-    "nom": "(68100) Lycée Privé Jeanne D'Arc"
+    "nom": "(68100) Lycée Privé Jeanne d'Arc"
   },
   {
     "_id": 2592,
@@ -10585,7 +10585,7 @@
   },
   {
     "_id": 2647,
-    "nom": "(69006) Ecole D'Esthétique et Cosmétologie Silvya Terrade"
+    "nom": "(69006) Ecole d'Esthétique et Cosmétologie Silvya Terrade"
   },
   {
     "_id": 2648,
@@ -10681,7 +10681,7 @@
   },
   {
     "_id": 2671,
-    "nom": "(69009) Ateliers D'Apprentissage de Gorge de Loup"
+    "nom": "(69009) Ateliers d'Apprentissage de Gorge de Loup"
   },
   {
     "_id": 2672,
@@ -10709,7 +10709,7 @@
   },
   {
     "_id": 2678,
-    "nom": "(69100) Lycée Juif De Lyon - Ecoles Juives de Lyon"
+    "nom": "(69100) Lycée Juif de Lyon - Ecoles Juives de Lyon"
   },
   {
     "_id": 2679,
@@ -10817,7 +10817,7 @@
   },
   {
     "_id": 2705,
-    "nom": "(69230) Centre D'Enseignement Professionnel et D'Accueil des Jeunes"
+    "nom": "(69230) Centre d'Enseignement Professionnel et d'Accueil des Jeunes"
   },
   {
     "_id": 2706,
@@ -10885,7 +10885,7 @@
   },
   {
     "_id": 2722,
-    "nom": "(69440) Annexe du Lycée Saint-Thomas D'Aquin Veritas"
+    "nom": "(69440) Annexe du Lycée Saint-thomas d'Aquin Veritas"
   },
   {
     "_id": 2723,
@@ -10893,7 +10893,7 @@
   },
   {
     "_id": 2724,
-    "nom": "(69500) Lycée Professionnel de L'Automobile Emile Béjuit"
+    "nom": "(69500) Lycée Professionnel de l'Automobile Emile Béjuit"
   },
   {
     "_id": 2725,
@@ -10945,11 +10945,11 @@
   },
   {
     "_id": 2737,
-    "nom": "(69600) Lycée Saint-Thomas D'Aquin Véritas"
+    "nom": "(69600) Lycée Saint-thomas d'Aquin Véritas"
   },
   {
     "_id": 2738,
-    "nom": "(69690) Ateliers D'Apprentissage de la Giraudière"
+    "nom": "(69690) Ateliers d'Apprentissage de la Giraudière"
   },
   {
     "_id": 2739,
@@ -10969,7 +10969,7 @@
   },
   {
     "_id": 2743,
-    "nom": "(69760) Lycée D'Agrotechnologie de Sandar"
+    "nom": "(69760) Lycée d'Agrotechnologie de Sandar"
   },
   {
     "_id": 2744,
@@ -11065,7 +11065,7 @@
   },
   {
     "_id": 2767,
-    "nom": "(71100) Lycée Pontus-De-Tyard"
+    "nom": "(71100) Lycée Pontus-de-Tyard"
   },
   {
     "_id": 2768,
@@ -11073,7 +11073,7 @@
   },
   {
     "_id": 2769,
-    "nom": "(71100) Lycée Professionnel des Métiers de L'Automobile Camille du Gast"
+    "nom": "(71100) Lycée Professionnel des Métiers de l'Automobile Camille du Gast"
   },
   {
     "_id": 2770,
@@ -11117,7 +11117,7 @@
   },
   {
     "_id": 2780,
-    "nom": "(71400) Lycée Militaire D'Autun"
+    "nom": "(71400) Lycée Militaire d'Autun"
   },
   {
     "_id": 2781,
@@ -11141,7 +11141,7 @@
   },
   {
     "_id": 2786,
-    "nom": "(71600) Lycée Jeanne D'Arc"
+    "nom": "(71600) Lycée Jeanne d'Arc"
   },
   {
     "_id": 2787,
@@ -11233,7 +11233,7 @@
   },
   {
     "_id": 2809,
-    "nom": "(72000) Section D'Enseignement Professionnel Saint-Charles"
+    "nom": "(72000) Section d'Enseignement Professionnel Saint-Charles"
   },
   {
     "_id": 2810,
@@ -11249,7 +11249,7 @@
   },
   {
     "_id": 2813,
-    "nom": "(72200) Lycée Polyvalent D'Estournelles de Constant"
+    "nom": "(72200) Lycée Polyvalent d'Estournelles de Constant"
   },
   {
     "_id": 2814,
@@ -11389,7 +11389,7 @@
   },
   {
     "_id": 2848,
-    "nom": "(73200) Lycée Privé Jeanne D'Arc"
+    "nom": "(73200) Lycée Privé Jeanne d'Arc"
   },
   {
     "_id": 2849,
@@ -11429,7 +11429,7 @@
   },
   {
     "_id": 2858,
-    "nom": "(73800) École Professionnelle Privée Hôtellerie L'Arlequin"
+    "nom": "(73800) École Professionnelle Privée Hôtellerie l'Arlequin"
   },
   {
     "_id": 2859,
@@ -11473,7 +11473,7 @@
   },
   {
     "_id": 2869,
-    "nom": "(74150) Lycée de L'Albanais"
+    "nom": "(74150) Lycée de l'Albanais"
   },
   {
     "_id": 2870,
@@ -11481,7 +11481,7 @@
   },
   {
     "_id": 2871,
-    "nom": "(74150) Lycée Professionnel Portes des ALycée Professionneles"
+    "nom": "(74150) Lycée Professionnel Portes des Alycée Professionneles"
   },
   {
     "_id": 2872,
@@ -11513,7 +11513,7 @@
   },
   {
     "_id": 2879,
-    "nom": "(74200) Lycée Privé Jeanne D'Arc"
+    "nom": "(74200) Lycée Privé Jeanne d'Arc"
   },
   {
     "_id": 2880,
@@ -11525,11 +11525,11 @@
   },
   {
     "_id": 2882,
-    "nom": "(74200) Lycée Professionnel Privé Jeanne-D'Arc"
+    "nom": "(74200) Lycée Professionnel Privé jeanne-d'Arc"
   },
   {
     "_id": 2883,
-    "nom": "(74200) Lycée Professionnel Privé Les 3 Vallées"
+    "nom": "(74200) Lycée Professionnel Privé les 3 Vallées"
   },
   {
     "_id": 2884,
@@ -11553,7 +11553,7 @@
   },
   {
     "_id": 2889,
-    "nom": "(74330) Lycée Agricole Privé De Poisy Chavanod - Site de Poisy"
+    "nom": "(74330) Lycée Agricole Privé de Poisy Chavanod - Site de Poisy"
   },
   {
     "_id": 2890,
@@ -11585,7 +11585,7 @@
   },
   {
     "_id": 2897,
-    "nom": "(74650) Lycée Agricole Privé De Poisy Chavanod - Site de Chavanod"
+    "nom": "(74650) Lycée Agricole Privé de Poisy Chavanod - Site de Chavanod"
   },
   {
     "_id": 2898,
@@ -11625,7 +11625,7 @@
   },
   {
     "_id": 2907,
-    "nom": "(75002) Ecole Privée De la Bijouterie Joaillerie"
+    "nom": "(75002) Ecole Privée de la Bijouterie Joaillerie"
   },
   {
     "_id": 2908,
@@ -11729,7 +11729,7 @@
   },
   {
     "_id": 2933,
-    "nom": "(75006) Lycée Privé L'Ecole Alsacienne"
+    "nom": "(75006) Lycée Privé l'Ecole Alsacienne"
   },
   {
     "_id": 2934,
@@ -11741,7 +11741,7 @@
   },
   {
     "_id": 2936,
-    "nom": "(75006) Lycée Privé Saint-SuLycée Professionnelice"
+    "nom": "(75006) Lycée Privé Saint-Sulycée Professionnelice"
   },
   {
     "_id": 2937,
@@ -11765,7 +11765,7 @@
   },
   {
     "_id": 2942,
-    "nom": "(75007) Lycée Privé de L'Alma"
+    "nom": "(75007) Lycée Privé de l'Alma"
   },
   {
     "_id": 2943,
@@ -11777,7 +11777,7 @@
   },
   {
     "_id": 2945,
-    "nom": "(75007) Lycée Privé Saint-Thomas D'Aquin"
+    "nom": "(75007) Lycée Privé Saint-thomas d'Aquin"
   },
   {
     "_id": 2946,
@@ -11801,7 +11801,7 @@
   },
   {
     "_id": 2951,
-    "nom": "(75008) Ecole Active Bilingue de L'Etoile"
+    "nom": "(75008) Ecole Active Bilingue de l'Etoile"
   },
   {
     "_id": 2952,
@@ -11821,7 +11821,7 @@
   },
   {
     "_id": 2956,
-    "nom": "(75009) Lycée ALycée Professionnelhonse de Lamartine"
+    "nom": "(75009) Lycée Alycée Professionnelhonse de Lamartine"
   },
   {
     "_id": 2957,
@@ -11861,7 +11861,7 @@
   },
   {
     "_id": 2966,
-    "nom": "(75010) Lycée Privé Rocroy Saint-Vincent-De-Paul"
+    "nom": "(75010) Lycée Privé Rocroy Saint-Vincent-de-Paul"
   },
   {
     "_id": 2967,
@@ -11897,7 +11897,7 @@
   },
   {
     "_id": 2975,
-    "nom": "(75011) Lycée Professionnel Métiers de L'Ameublement"
+    "nom": "(75011) Lycée Professionnel Métiers de l'Ameublement"
   },
   {
     "_id": 2976,
@@ -11981,7 +11981,7 @@
   },
   {
     "_id": 2996,
-    "nom": "(75013) Lycée Pierre-Gilles De Gennes - Ecole Nationale de Chimie, Physique et Biologie"
+    "nom": "(75013) Lycée Pierre-Gilles de Gennes - Ecole Nationale de Chimie, Physique et Biologie"
   },
   {
     "_id": 2997,
@@ -12033,7 +12033,7 @@
   },
   {
     "_id": 3009,
-    "nom": "(75013) Lycée Technique Privé de L'École Technique Supérieure du Laboratoire"
+    "nom": "(75013) Lycée Technique Privé de l'École Technique Supérieure du Laboratoire"
   },
   {
     "_id": 3010,
@@ -12077,7 +12077,7 @@
   },
   {
     "_id": 3020,
-    "nom": "(75015) Ecole Nationale Supérieure des Arts Appliqués et des Métiers D'Art - Olivier de Serres"
+    "nom": "(75015) Ecole Nationale Supérieure des Arts Appliqués et des Métiers d'Art - Olivier de Serres"
   },
   {
     "_id": 3021,
@@ -12161,7 +12161,7 @@
   },
   {
     "_id": 3041,
-    "nom": "(75016) Lycée Privé de L'Assomption"
+    "nom": "(75016) Lycée Privé de l'Assomption"
   },
   {
     "_id": 3042,
@@ -12241,7 +12241,7 @@
   },
   {
     "_id": 3061,
-    "nom": "(75018) Lycée D'Arts Appliqués Auguste Renoir"
+    "nom": "(75018) Lycée d'Arts Appliqués Auguste Renoir"
   },
   {
     "_id": 3062,
@@ -12257,7 +12257,7 @@
   },
   {
     "_id": 3065,
-    "nom": "(75018) Lycée Professionnel de L'Automobile et de la Logistique Camille Jenatzy"
+    "nom": "(75018) Lycée Professionnel de l'Automobile et de la Logistique Camille Jenatzy"
   },
   {
     "_id": 3066,
@@ -12293,7 +12293,7 @@
   },
   {
     "_id": 3074,
-    "nom": "(75019) Lycée Polyvalent D'Alembert"
+    "nom": "(75019) Lycée Polyvalent d'Alembert"
   },
   {
     "_id": 3075,
@@ -12305,7 +12305,7 @@
   },
   {
     "_id": 3077,
-    "nom": "(75019) Lycée Privé L'Initiative"
+    "nom": "(75019) Lycée Privé l'Initiative"
   },
   {
     "_id": 3078,
@@ -12313,7 +12313,7 @@
   },
   {
     "_id": 3079,
-    "nom": "(75019) Lycée Privé N'R Hatorah"
+    "nom": "(75019) Lycée Privé n'R Hatorah"
   },
   {
     "_id": 3080,
@@ -12381,7 +12381,7 @@
   },
   {
     "_id": 3096,
-    "nom": "(76000) Lycée Jeanne D'Arc"
+    "nom": "(76000) Lycée Jeanne d'Arc"
   },
   {
     "_id": 3097,
@@ -12525,7 +12525,7 @@
   },
   {
     "_id": 3132,
-    "nom": "(76310) Lycée Privé Jeanne D'Arc"
+    "nom": "(76310) Lycée Privé Jeanne d'Arc"
   },
   {
     "_id": 3133,
@@ -12557,7 +12557,7 @@
   },
   {
     "_id": 3140,
-    "nom": "(76460) Lycée De la Côte D'Albâtre"
+    "nom": "(76460) Lycée de la Côte d'Albâtre"
   },
   {
     "_id": 3141,
@@ -12601,7 +12601,7 @@
   },
   {
     "_id": 3151,
-    "nom": "(76600) Lycée François 1Er"
+    "nom": "(76600) Lycée François 1er"
   },
   {
     "_id": 3152,
@@ -12641,7 +12641,7 @@
   },
   {
     "_id": 3161,
-    "nom": "(76630) Lycée Professionnel Agricole D'Envermeu"
+    "nom": "(76630) Lycée Professionnel Agricole d'Envermeu"
   },
   {
     "_id": 3162,
@@ -12769,7 +12769,7 @@
   },
   {
     "_id": 3193,
-    "nom": "(77171) Lycée D'Etat de Sourdun"
+    "nom": "(77171) Lycée d'Etat de Sourdun"
   },
   {
     "_id": 3194,
@@ -12853,7 +12853,7 @@
   },
   {
     "_id": 3214,
-    "nom": "(77300) Lycée Jeanne D'Arc - Saint-Aspais"
+    "nom": "(77300) Lycée Jeanne d'Arc - Saint-Aspais"
   },
   {
     "_id": 3215,
@@ -12945,11 +12945,11 @@
   },
   {
     "_id": 3237,
-    "nom": "(77550) Lycée Polyvalent De la Mare Carrée"
+    "nom": "(77550) Lycée Polyvalent de la Mare Carrée"
   },
   {
     "_id": 3238,
-    "nom": "(77550) Lycée De la Mare Carrée"
+    "nom": "(77550) Lycée de la Mare Carrée"
   },
   {
     "_id": 3239,
@@ -13037,7 +13037,7 @@
   },
   {
     "_id": 3260,
-    "nom": "(78100) Lycée Jeanne D'Albret"
+    "nom": "(78100) Lycée Jeanne d'Albret"
   },
   {
     "_id": 3261,
@@ -13121,7 +13121,7 @@
   },
   {
     "_id": 3281,
-    "nom": "(78180) Lycée Saint-François D'Assise"
+    "nom": "(78180) Lycée Saint-françois d'Assise"
   },
   {
     "_id": 3282,
@@ -13181,7 +13181,7 @@
   },
   {
     "_id": 3296,
-    "nom": "(78280) Lycée D'Hôtellerie et de Tourisme"
+    "nom": "(78280) Lycée d'Hôtellerie et de Tourisme"
   },
   {
     "_id": 3297,
@@ -13201,11 +13201,11 @@
   },
   {
     "_id": 3301,
-    "nom": "(78310) Lycée Des 7 Mares"
+    "nom": "(78310) Lycée des 7 Mares"
   },
   {
     "_id": 3302,
-    "nom": "(78310) Lycée Dumont D'Urville"
+    "nom": "(78310) Lycée Dumont d'Urville"
   },
   {
     "_id": 3303,
@@ -13237,7 +13237,7 @@
   },
   {
     "_id": 3310,
-    "nom": "(78490) Centre Horticole D'Enseignement et de Promotion - L'École du Savoir Vert"
+    "nom": "(78490) Centre Horticole d'Enseignement et de Promotion - l'École du Savoir Vert"
   },
   {
     "_id": 3311,
@@ -13265,7 +13265,7 @@
   },
   {
     "_id": 3317,
-    "nom": "(78600) Lycée L'Ermitage"
+    "nom": "(78600) Lycée l'Ermitage"
   },
   {
     "_id": 3318,
@@ -13289,11 +13289,11 @@
   },
   {
     "_id": 3323,
-    "nom": "(79000) Ecole Française de Coiffure et D'Esthétique"
+    "nom": "(79000) Ecole Française de Coiffure et d'Esthétique"
   },
   {
     "_id": 3324,
-    "nom": "(79000) Lycée De la Venise Verte"
+    "nom": "(79000) Lycée de la Venise Verte"
   },
   {
     "_id": 3325,
@@ -13309,7 +13309,7 @@
   },
   {
     "_id": 3328,
-    "nom": "(79000) Lycée Professionnel de L'Horticulture et du Paysage de Niort"
+    "nom": "(79000) Lycée Professionnel de l'Horticulture et du Paysage de Niort"
   },
   {
     "_id": 3329,
@@ -13373,7 +13373,7 @@
   },
   {
     "_id": 3344,
-    "nom": "(79700) Lycée Professionnel Agricole Privé le Val de L'Ouin"
+    "nom": "(79700) Lycée Professionnel Agricole Privé le Val de l'Ouin"
   },
   {
     "_id": 3345,
@@ -13409,7 +13409,7 @@
   },
   {
     "_id": 3353,
-    "nom": "(80000) Lycée Professionnel de L'Acheuléen"
+    "nom": "(80000) Lycée Professionnel de l'Acheuléen"
   },
   {
     "_id": 3354,
@@ -13457,7 +13457,7 @@
   },
   {
     "_id": 3365,
-    "nom": "(80113) Lycée Professionnel Agricole de la Haute-Somme - Site de Ribemont-Sur-Ancre"
+    "nom": "(80113) Lycée Professionnel Agricole de la Haute-Somme - Site de Ribemont-sur-Ancre"
   },
   {
     "_id": 3366,
@@ -13493,7 +13493,7 @@
   },
   {
     "_id": 3374,
-    "nom": "(80440) Legta D'Amiens"
+    "nom": "(80440) Legta d'Amiens"
   },
   {
     "_id": 3375,
@@ -13501,7 +13501,7 @@
   },
   {
     "_id": 3376,
-    "nom": "(80600) Lycée de L'Authie"
+    "nom": "(80600) Lycée de l'Authie"
   },
   {
     "_id": 3377,
@@ -13509,7 +13509,7 @@
   },
   {
     "_id": 3378,
-    "nom": "(80800) Lycée D'Enseignement Agricole Privé Sainte-Colette"
+    "nom": "(80800) Lycée d'Enseignement Agricole Privé Sainte-Colette"
   },
   {
     "_id": 3379,
@@ -13517,7 +13517,7 @@
   },
   {
     "_id": 3380,
-    "nom": "(81000) Etablissement Agro-Environnemental Du Tarn - Site D'Albi Fonlabour"
+    "nom": "(81000) Etablissement Agro-Environnemental du Tarn - Site d'Albi Fonlabour"
   },
   {
     "_id": 3381,
@@ -13597,7 +13597,7 @@
   },
   {
     "_id": 3400,
-    "nom": "(81200) Lycée Privé Jeanne D'Arc"
+    "nom": "(81200) Lycée Privé Jeanne d'Arc"
   },
   {
     "_id": 3401,
@@ -13625,7 +13625,7 @@
   },
   {
     "_id": 3407,
-    "nom": "(81500) Etablissement Agro-Environnemental Du Tarn - Site de Lavaur Flamarens"
+    "nom": "(81500) Etablissement Agro-Environnemental du Tarn - Site de Lavaur Flamarens"
   },
   {
     "_id": 3408,
@@ -13633,7 +13633,7 @@
   },
   {
     "_id": 3409,
-    "nom": "(81600) Lycée Privé Saint-Joseph de L'Apparition"
+    "nom": "(81600) Lycée Privé Saint-joseph de l'Apparition"
   },
   {
     "_id": 3410,
@@ -13641,7 +13641,7 @@
   },
   {
     "_id": 3411,
-    "nom": "(82000) Ecole Privée D'Esthétique Skhole D'Art"
+    "nom": "(82000) Ecole Privée d'Esthétique Skhole d'Art"
   },
   {
     "_id": 3412,
@@ -13665,7 +13665,7 @@
   },
   {
     "_id": 3417,
-    "nom": "(82000) Lycée Professionnel Privé Skhole D'Art"
+    "nom": "(82000) Lycée Professionnel Privé Skhole d'Art"
   },
   {
     "_id": 3418,
@@ -13709,7 +13709,7 @@
   },
   {
     "_id": 3428,
-    "nom": "(82500) Section D'Enseignement Général et Technologique Lycée Professionnel des Métiers"
+    "nom": "(82500) Section d'Enseignement Général et Technologique Lycée Professionnel des Métiers"
   },
   {
     "_id": 3429,
@@ -13725,7 +13725,7 @@
   },
   {
     "_id": 3432,
-    "nom": "(83000) Lycée Des Métiers de L'Electricité et de L'Automobile Georges Cisson"
+    "nom": "(83000) Lycée des Métiers de l'Electricité et de l'Automobile Georges Cisson"
   },
   {
     "_id": 3433,
@@ -13733,7 +13733,7 @@
   },
   {
     "_id": 3434,
-    "nom": "(83000) Lycée Dumont D'Urville"
+    "nom": "(83000) Lycée Dumont d'Urville"
   },
   {
     "_id": 3435,
@@ -13749,11 +13749,11 @@
   },
   {
     "_id": 3438,
-    "nom": "(83000) Lycée Professionnel des Métiers de L'Hôtellerie et du Tourisme Saint Louis Tpm"
+    "nom": "(83000) Lycée Professionnel des Métiers de l'Hôtellerie et du Tourisme Saint Louis Tpm"
   },
   {
     "_id": 3439,
-    "nom": "(83000) Lycée Professionnel des Métiers Des Soins et Services ‡ la Personne du Parc Saint-Jean"
+    "nom": "(83000) Lycée Professionnel des Métiers des Soins et Services ‡ la Personne du Parc Saint-Jean"
   },
   {
     "_id": 3440,
@@ -13777,7 +13777,7 @@
   },
   {
     "_id": 3445,
-    "nom": "(83170) Ecole Technique de Coiffure et D'Esthétique"
+    "nom": "(83170) Ecole Technique de Coiffure et d'Esthétique"
   },
   {
     "_id": 3446,
@@ -13785,7 +13785,7 @@
   },
   {
     "_id": 3447,
-    "nom": "(83170) Lycée Sainte Jeanne D'Arc"
+    "nom": "(83170) Lycée Sainte Jeanne d'Arc"
   },
   {
     "_id": 3448,
@@ -13833,7 +13833,7 @@
   },
   {
     "_id": 3459,
-    "nom": "(83470) Lycée D'Enseignement Agricole Privé"
+    "nom": "(83470) Lycée d'Enseignement Agricole Privé"
   },
   {
     "_id": 3460,
@@ -13841,7 +13841,7 @@
   },
   {
     "_id": 3461,
-    "nom": "(83490) Lycée Professionnel Polyvalent du Val D'Argens"
+    "nom": "(83490) Lycée Professionnel Polyvalent du Val d'Argens"
   },
   {
     "_id": 3462,
@@ -13869,7 +13869,7 @@
   },
   {
     "_id": 3468,
-    "nom": "(83600) Lycée Professionnel Des Métiers du Transport et De la Logistique Galliéni"
+    "nom": "(83600) Lycée Professionnel des Métiers du Transport et de la Logistique Galliéni"
   },
   {
     "_id": 3469,
@@ -13881,7 +13881,7 @@
   },
   {
     "_id": 3471,
-    "nom": "(84000) Ecole Technique Privée des Arts de la Coiffure et de L'Esthétique"
+    "nom": "(84000) Ecole Technique Privée des Arts de la Coiffure et de l'Esthétique"
   },
   {
     "_id": 3472,
@@ -13933,7 +13933,7 @@
   },
   {
     "_id": 3484,
-    "nom": "(84100) Lycée de L'Arc"
+    "nom": "(84100) Lycée de l'Arc"
   },
   {
     "_id": 3485,
@@ -13941,7 +13941,7 @@
   },
   {
     "_id": 3486,
-    "nom": "(84100) Lycée Professionnel de L'Argensol"
+    "nom": "(84100) Lycée Professionnel de l'Argensol"
   },
   {
     "_id": 3487,
@@ -13957,7 +13957,7 @@
   },
   {
     "_id": 3490,
-    "nom": "(84110) Lycée de Vaison-La-Romaine"
+    "nom": "(84110) Lycée de Vaison-la-Romaine"
   },
   {
     "_id": 3491,
@@ -13969,7 +13969,7 @@
   },
   {
     "_id": 3493,
-    "nom": "(84200) Lycée D'Enseignement Professionnel Privé les Chênes"
+    "nom": "(84200) Lycée d'Enseignement Professionnel Privé les Chênes"
   },
   {
     "_id": 3494,
@@ -13989,11 +13989,11 @@
   },
   {
     "_id": 3498,
-    "nom": "(84240) Centre Forestier De la Région Paca"
+    "nom": "(84240) Centre Forestier de la Région Paca"
   },
   {
     "_id": 3499,
-    "nom": "(84270) Lycée Professionnel Domaine D'Eguilles"
+    "nom": "(84270) Lycée Professionnel Domaine d'Eguilles"
   },
   {
     "_id": 3500,
@@ -14005,7 +14005,7 @@
   },
   {
     "_id": 3502,
-    "nom": "(84400) Lycée Régional D'Apt"
+    "nom": "(84400) Lycée Régional d'Apt"
   },
   {
     "_id": 3503,
@@ -14033,7 +14033,7 @@
   },
   {
     "_id": 3509,
-    "nom": "(84800) Lycée ALycée Professionnelhonse Benoót"
+    "nom": "(84800) Lycée Alycée Professionnelhonse Benoót"
   },
   {
     "_id": 3510,
@@ -14053,7 +14053,7 @@
   },
   {
     "_id": 3514,
-    "nom": "(85000) Lycée Jean de Lattre-De-Tassigny"
+    "nom": "(85000) Lycée Jean de Lattre-de-Tassigny"
   },
   {
     "_id": 3515,
@@ -14073,7 +14073,7 @@
   },
   {
     "_id": 3519,
-    "nom": "(85000) Lycée Saint François D'Assise"
+    "nom": "(85000) Lycée Saint François d'Assise"
   },
   {
     "_id": 3520,
@@ -14089,7 +14089,7 @@
   },
   {
     "_id": 3523,
-    "nom": "(85110) Lycée L'Espérance"
+    "nom": "(85110) Lycée l'Espérance"
   },
   {
     "_id": 3524,
@@ -14113,7 +14113,7 @@
   },
   {
     "_id": 3529,
-    "nom": "(85290) Saint Gab'Sup"
+    "nom": "(85290) Saint gab'Sup"
   },
   {
     "_id": 3530,
@@ -14161,7 +14161,7 @@
   },
   {
     "_id": 3541,
-    "nom": "(85600) Lycée Polyvalent Jeanne D'Arc"
+    "nom": "(85600) Lycée Polyvalent Jeanne d'Arc"
   },
   {
     "_id": 3542,
@@ -14177,11 +14177,11 @@
   },
   {
     "_id": 3545,
-    "nom": "(86000) Ecole Privée D'Esthétique Agnès Briat-Pierrain"
+    "nom": "(86000) Ecole Privée d'Esthétique Agnès Briat-Pierrain"
   },
   {
     "_id": 3546,
-    "nom": "(86000) Lycée Aliénor D'Aquitaine"
+    "nom": "(86000) Lycée Aliénor d'Aquitaine"
   },
   {
     "_id": 3547,
@@ -14189,7 +14189,7 @@
   },
   {
     "_id": 3548,
-    "nom": "(86000) Lycée du Bois D'Amour"
+    "nom": "(86000) Lycée du Bois d'Amour"
   },
   {
     "_id": 3549,
@@ -14201,11 +14201,11 @@
   },
   {
     "_id": 3551,
-    "nom": "(86000) Lycée Privé Ensemble Scolaire Isaac de L'Etoile"
+    "nom": "(86000) Lycée Privé Ensemble Scolaire Isaac de l'Etoile"
   },
   {
     "_id": 3552,
-    "nom": "(86000) Lycée Privé L'Union Chrétienne"
+    "nom": "(86000) Lycée Privé l'Union Chrétienne"
   },
   {
     "_id": 3553,
@@ -14213,7 +14213,7 @@
   },
   {
     "_id": 3554,
-    "nom": "(86000) Lycée Professionnel Ensemble Scolaire Isaac de L'Etoile"
+    "nom": "(86000) Lycée Professionnel Ensemble Scolaire Isaac de l'Etoile"
   },
   {
     "_id": 3555,
@@ -14281,7 +14281,7 @@
   },
   {
     "_id": 3571,
-    "nom": "(86500) Lycée Professionnel Agricole Jean Marie Bouloux -Site de Formation Agri'Nature Jm Bouloux"
+    "nom": "(86500) Lycée Professionnel Agricole Jean Marie Bouloux -site de Formation agri'Nature Jm Bouloux"
   },
   {
     "_id": 3572,
@@ -14293,7 +14293,7 @@
   },
   {
     "_id": 3574,
-    "nom": "(86700) Ecg Privé Saint-Thomas D'Aquin"
+    "nom": "(86700) Ecg Privé Saint-thomas d'Aquin"
   },
   {
     "_id": 3575,
@@ -14309,7 +14309,7 @@
   },
   {
     "_id": 3578,
-    "nom": "(87000) Institut D'Économie Sociale Familiale"
+    "nom": "(87000) Institut d'Économie Sociale Familiale"
   },
   {
     "_id": 3579,
@@ -14361,7 +14361,7 @@
   },
   {
     "_id": 3591,
-    "nom": "(87000) Section D'Enseignement Professionnel Annexe du Lycée Jean Monnet"
+    "nom": "(87000) Section d'Enseignement Professionnel Annexe du Lycée Jean Monnet"
   },
   {
     "_id": 3592,
@@ -14417,7 +14417,7 @@
   },
   {
     "_id": 3605,
-    "nom": "(88000) Lycée des Métiers de la Conception, de L'Automatique Et de L'Énergie Pierre Mendès France"
+    "nom": "(88000) Lycée des Métiers de la Conception, de l'Automatique et de l'Énergie Pierre Mendès France"
   },
   {
     "_id": 3606,
@@ -14465,7 +14465,7 @@
   },
   {
     "_id": 3617,
-    "nom": "(88200) Lycée Jeanne D'Arc"
+    "nom": "(88200) Lycée Jeanne d'Arc"
   },
   {
     "_id": 3618,
@@ -14477,23 +14477,23 @@
   },
   {
     "_id": 3620,
-    "nom": "(88290) Lycée des Métiers de la Filière Bois et De la Productique Mécanique"
+    "nom": "(88290) Lycée des Métiers de la Filière Bois et de la Productique Mécanique"
   },
   {
     "_id": 3621,
-    "nom": "(88300) Lycée Des Métiers Des Arts de L'Habitat et de L'Ameublement Pierre et Marie Curie"
+    "nom": "(88300) Lycée des Métiers des Arts de l'Habitat et de l'Ameublement Pierre et Marie Curie"
   },
   {
     "_id": 3622,
-    "nom": "(88300) Lycée Professionnel Jeanne D'Arc"
+    "nom": "(88300) Lycée Professionnel Jeanne d'Arc"
   },
   {
     "_id": 3623,
-    "nom": "(88300) Lycée Des Métiers des Arts de L'Habitat et de L'Ameublement"
+    "nom": "(88300) Lycée des Métiers des Arts de l'Habitat et de l'Ameublement"
   },
   {
     "_id": 3624,
-    "nom": "(88400) Lycée des Métiers de L'Hôtellerie et de la Restauration Jbs Chardin"
+    "nom": "(88400) Lycée des Métiers de l'Hôtellerie et de la Restauration Jbs Chardin"
   },
   {
     "_id": 3625,
@@ -14505,7 +14505,7 @@
   },
   {
     "_id": 3627,
-    "nom": "(88400) Lycée Des Métiers de L'Hôtellerie et De la Restauration Jbs"
+    "nom": "(88400) Lycée des Métiers de l'Hôtellerie et de la Restauration Jbs"
   },
   {
     "_id": 3628,
@@ -14521,11 +14521,11 @@
   },
   {
     "_id": 3631,
-    "nom": "(88600) Lycée Professionnel Jeanne D'Arc"
+    "nom": "(88600) Lycée Professionnel Jeanne d'Arc"
   },
   {
     "_id": 3632,
-    "nom": "(88700) Ecole D'Horticulture et du Paysage"
+    "nom": "(88700) Ecole d'Horticulture et du Paysage"
   },
   {
     "_id": 3633,
@@ -14577,11 +14577,11 @@
   },
   {
     "_id": 3645,
-    "nom": "(89200) Lycée Privé Jeanne D'Arc"
+    "nom": "(89200) Lycée Privé Jeanne d'Arc"
   },
   {
     "_id": 3646,
-    "nom": "(89290) Legta D'Auxerre-La Brosse"
+    "nom": "(89290) Legta d'Auxerre-La Brosse"
   },
   {
     "_id": 3647,
@@ -14597,7 +14597,7 @@
   },
   {
     "_id": 3650,
-    "nom": "(89700) Lycée Chevalier D'Eon"
+    "nom": "(89700) Lycée Chevalier d'Eon"
   },
   {
     "_id": 3651,
@@ -14693,7 +14693,7 @@
   },
   {
     "_id": 3674,
-    "nom": "(91140) Lycée D'Ile de France"
+    "nom": "(91140) Lycée d'Ile de France"
   },
   {
     "_id": 3675,
@@ -14701,7 +14701,7 @@
   },
   {
     "_id": 3676,
-    "nom": "(91150) Lycée Jeanne D'Arc"
+    "nom": "(91150) Lycée Jeanne d'Arc"
   },
   {
     "_id": 3677,
@@ -14773,7 +14773,7 @@
   },
   {
     "_id": 3694,
-    "nom": "(91300) Lycée Parc de ViLycéeénis"
+    "nom": "(91300) Lycée Parc de Vilycéeénis"
   },
   {
     "_id": 3695,
@@ -14801,7 +14801,7 @@
   },
   {
     "_id": 3701,
-    "nom": "(91400) Lycée Privé du Cours Secondaire D'Orsay"
+    "nom": "(91400) Lycée Privé du Cours Secondaire d'Orsay"
   },
   {
     "_id": 3702,
@@ -14821,7 +14821,7 @@
   },
   {
     "_id": 3706,
-    "nom": "(91440) Lycée Technique D'Optométrie"
+    "nom": "(91440) Lycée Technique d'Optométrie"
   },
   {
     "_id": 3707,
@@ -14881,7 +14881,7 @@
   },
   {
     "_id": 3721,
-    "nom": "(91940) Lycée L'Essouriau"
+    "nom": "(91940) Lycée l'Essouriau"
   },
   {
     "_id": 3722,
@@ -14925,7 +14925,7 @@
   },
   {
     "_id": 3732,
-    "nom": "(92120) Lycée Jeanne D'Arc"
+    "nom": "(92120) Lycée Jeanne d'Arc"
   },
   {
     "_id": 3733,
@@ -14997,7 +14997,7 @@
   },
   {
     "_id": 3750,
-    "nom": "(92190) Lycée Professionnel Saint-Philippe Fondation D'Auteuil"
+    "nom": "(92190) Lycée Professionnel Saint-philippe Fondation d'Auteuil"
   },
   {
     "_id": 3751,
@@ -15061,7 +15061,7 @@
   },
   {
     "_id": 3766,
-    "nom": "(92260) Lycée Professionnel Saint-François D'Assise"
+    "nom": "(92260) Lycée Professionnel Saint-françois d'Assise"
   },
   {
     "_id": 3767,
@@ -15181,7 +15181,7 @@
   },
   {
     "_id": 3796,
-    "nom": "(92700) Lycée Jeanne D'Arc"
+    "nom": "(92700) Lycée Jeanne d'Arc"
   },
   {
     "_id": 3797,
@@ -15229,7 +15229,7 @@
   },
   {
     "_id": 3808,
-    "nom": "(93100) Lycée Polyvalent des Métiers de L'Horticulture et du Paysage"
+    "nom": "(93100) Lycée Polyvalent des Métiers de l'Horticulture et du Paysage"
   },
   {
     "_id": 3809,
@@ -15241,7 +15241,7 @@
   },
   {
     "_id": 3811,
-    "nom": "(93100) Lycée des Métiers de L'Horticulture et du Paysage"
+    "nom": "(93100) Lycée des Métiers de l'Horticulture et du Paysage"
   },
   {
     "_id": 3812,
@@ -15317,7 +15317,7 @@
   },
   {
     "_id": 3830,
-    "nom": "(93160) Lycée International De L'Est Parisien"
+    "nom": "(93160) Lycée International de l'Est Parisien"
   },
   {
     "_id": 3831,
@@ -15329,7 +15329,7 @@
   },
   {
     "_id": 3833,
-    "nom": "(93170) Lycée Professionnel Saint-Benoót de L'Europe"
+    "nom": "(93170) Lycée Professionnel Saint-benoót de l'Europe"
   },
   {
     "_id": 3834,
@@ -15349,7 +15349,7 @@
   },
   {
     "_id": 3838,
-    "nom": "(93200) Lycée Polyvalent D'Application de L'Enna"
+    "nom": "(93200) Lycée Polyvalent d'Application de l'Enna"
   },
   {
     "_id": 3839,
@@ -15369,7 +15369,7 @@
   },
   {
     "_id": 3843,
-    "nom": "(93200) Maison D'Éducation De la Légion D'Honneur"
+    "nom": "(93200) Maison d'Éducation de la Légion d'Honneur"
   },
   {
     "_id": 3844,
@@ -15449,7 +15449,7 @@
   },
   {
     "_id": 3863,
-    "nom": "(93300) Lycée Polyvalent D'Alembert"
+    "nom": "(93300) Lycée Polyvalent d'Alembert"
   },
   {
     "_id": 3864,
@@ -15549,7 +15549,7 @@
   },
   {
     "_id": 3888,
-    "nom": "(93600) Lycée L'Espérance"
+    "nom": "(93600) Lycée l'Espérance"
   },
   {
     "_id": 3889,
@@ -15581,7 +15581,7 @@
   },
   {
     "_id": 3896,
-    "nom": "(94000) Lycée De L'Ensemble Sainte-Marie"
+    "nom": "(94000) Lycée de l'Ensemble Sainte-Marie"
   },
   {
     "_id": 3897,
@@ -15609,7 +15609,7 @@
   },
   {
     "_id": 3903,
-    "nom": "(94100) Lycée D'Arsonval"
+    "nom": "(94100) Lycée d'Arsonval"
   },
   {
     "_id": 3904,
@@ -15677,7 +15677,7 @@
   },
   {
     "_id": 3920,
-    "nom": "(94200) Lycée Professionnel Ce 3P"
+    "nom": "(94200) Lycée Professionnel Ce 3p"
   },
   {
     "_id": 3921,
@@ -15769,11 +15769,11 @@
   },
   {
     "_id": 3943,
-    "nom": "(94340) Lycée De L'Ensemble Saint-Marie"
+    "nom": "(94340) Lycée de l'Ensemble Saint-Marie"
   },
   {
     "_id": 3944,
-    "nom": "(94340) Lycée Professionnel De L'Ensemble Sainte-Marie"
+    "nom": "(94340) Lycée Professionnel de l'Ensemble Sainte-Marie"
   },
   {
     "_id": 3945,
@@ -15797,7 +15797,7 @@
   },
   {
     "_id": 3950,
-    "nom": "(94400) Lycée Polyvalent AdoLycée Professionnelhe Cherioux"
+    "nom": "(94400) Lycée Polyvalent Adolycée Professionnelhe Cherioux"
   },
   {
     "_id": 3951,
@@ -15805,7 +15805,7 @@
   },
   {
     "_id": 3952,
-    "nom": "(94400) Lycée AdoLycée Professionnelhe Chérioux"
+    "nom": "(94400) Lycée Adolycée Professionnelhe Chérioux"
   },
   {
     "_id": 3953,
@@ -15889,7 +15889,7 @@
   },
   {
     "_id": 3973,
-    "nom": "(95100) Ecole Nationale des Professions de L'Automobile - Garac"
+    "nom": "(95100) Ecole Nationale des Professions de l'Automobile - Garac"
   },
   {
     "_id": 3974,
@@ -15925,7 +15925,7 @@
   },
   {
     "_id": 3982,
-    "nom": "(95110) Lycée Professionnel Saint-Jean Fondation D'Auteuil"
+    "nom": "(95110) Lycée Professionnel Saint-jean Fondation d'Auteuil"
   },
   {
     "_id": 3983,
@@ -15945,7 +15945,7 @@
   },
   {
     "_id": 3987,
-    "nom": "(95130) Lycée Professionnel Jeanne D'Arc"
+    "nom": "(95130) Lycée Professionnel Jeanne d'Arc"
   },
   {
     "_id": 3988,
@@ -16017,7 +16017,7 @@
   },
   {
     "_id": 4005,
-    "nom": "(95280) Lycée de L'Hautil"
+    "nom": "(95280) Lycée de l'Hautil"
   },
   {
     "_id": 4006,
@@ -16033,7 +16033,7 @@
   },
   {
     "_id": 4009,
-    "nom": "(95310) Lycée Professionnel Industriel du Château D'Epluches"
+    "nom": "(95310) Lycée Professionnel Industriel du Château d'Epluches"
   },
   {
     "_id": 4010,
@@ -16049,7 +16049,7 @@
   },
   {
     "_id": 4013,
-    "nom": "(95400) Lycée de L'Ort"
+    "nom": "(95400) Lycée de l'Ort"
   },
   {
     "_id": 4014,
@@ -16121,7 +16121,7 @@
   },
   {
     "_id": 4031,
-    "nom": "(97100) Lycée Des Métiers du Bâtiment Et des Arts Appliqués Rivière-Des-Pères"
+    "nom": "(97100) Lycée des Métiers du Bâtiment et des Arts Appliqués Rivière-des-Pères"
   },
   {
     "_id": 4032,
@@ -16137,7 +16137,7 @@
   },
   {
     "_id": 4035,
-    "nom": "(97100) Lycée des Métiersdu Bâtiment Et des Arts Appliqués Rivière-D"
+    "nom": "(97100) Lycée des Métiersdu Bâtiment et des Arts Appliqués Rivière-d"
   },
   {
     "_id": 4036,
@@ -16181,7 +16181,7 @@
   },
   {
     "_id": 4046,
-    "nom": "(97116) Section D'Enseignement Professionnel Pointe Noire"
+    "nom": "(97116) Section d'Enseignement Professionnel Pointe Noire"
   },
   {
     "_id": 4047,
@@ -16193,7 +16193,7 @@
   },
   {
     "_id": 4049,
-    "nom": "(97120) Lycée des Métiers du Commerce, des Services et de L'Artisanat  Saint-Claude"
+    "nom": "(97120) Lycée des Métiers du Commerce, des Services et de l'Artisanat Saint-Claude"
   },
   {
     "_id": 4050,
@@ -16217,19 +16217,19 @@
   },
   {
     "_id": 4055,
-    "nom": "(97122) Section D'Enseignement Professionnel Charles Coeffin"
+    "nom": "(97122) Section d'Enseignement Professionnel Charles Coeffin"
   },
   {
     "_id": 4056,
-    "nom": "(97125) Section D'Enseignement Professionnel Bouillante"
+    "nom": "(97125) Section d'Enseignement Professionnel Bouillante"
   },
   {
     "_id": 4057,
-    "nom": "(97129) Lycée des Métiers de L'Habitat et des Services Associés Bertène Juminer"
+    "nom": "(97129) Lycée des Métiers de l'Habitat et des Services Associés Bertène Juminer"
   },
   {
     "_id": 4058,
-    "nom": "(97130) Lycée des Métiers de L'Automobile Paul Lacavé"
+    "nom": "(97130) Lycée des Métiers de l'Automobile Paul Lacavé"
   },
   {
     "_id": 4059,
@@ -16261,7 +16261,7 @@
   },
   {
     "_id": 4066,
-    "nom": "(97139) Lycée Jardin D'Essai"
+    "nom": "(97139) Lycée Jardin d'Essai"
   },
   {
     "_id": 4067,
@@ -16289,11 +16289,11 @@
   },
   {
     "_id": 4073,
-    "nom": "(97160) Lycée Professionnel Louis DeLycéerès"
+    "nom": "(97160) Lycée Professionnel Louis Delycéerès"
   },
   {
     "_id": 4074,
-    "nom": "(97170) Lycée Droits de L'Homme"
+    "nom": "(97170) Lycée Droits de l'Homme"
   },
   {
     "_id": 4075,
@@ -16301,11 +16301,11 @@
   },
   {
     "_id": 4076,
-    "nom": "(97190) Lycée des Métiers de L'Hôtellerie et du Tourisme de la Guadeloupe"
+    "nom": "(97190) Lycée des Métiers de l'Hôtellerie et du Tourisme de la Guadeloupe"
   },
   {
     "_id": 4077,
-    "nom": "(97190) Lycée des Métiers de L'Hôtellerie et du Tourisme de la Guade"
+    "nom": "(97190) Lycée des Métiers de l'Hôtellerie et du Tourisme de la Guade"
   },
   {
     "_id": 4078,
@@ -16313,11 +16313,11 @@
   },
   {
     "_id": 4079,
-    "nom": "(97200) Lycée de L'Association Martiniquaise D'Éducation Populaire"
+    "nom": "(97200) Lycée de l'Association Martiniquaise d'Éducation Populaire"
   },
   {
     "_id": 4080,
-    "nom": "(97200) Lycée de L'Institut Martiniquais D'Études"
+    "nom": "(97200) Lycée de l'Institut Martiniquais d'Études"
   },
   {
     "_id": 4081,
@@ -16333,7 +16333,7 @@
   },
   {
     "_id": 4084,
-    "nom": "(97200) Lycée Professionnel de L'Espérance"
+    "nom": "(97200) Lycée Professionnel de l'Espérance"
   },
   {
     "_id": 4085,
@@ -16405,7 +16405,7 @@
   },
   {
     "_id": 4102,
-    "nom": "(97230) Section D'Enseignement Professionnel du Nord Atlantique"
+    "nom": "(97230) Section d'Enseignement Professionnel du Nord Atlantique"
   },
   {
     "_id": 4103,
@@ -16421,7 +16421,7 @@
   },
   {
     "_id": 4106,
-    "nom": "(97232) Lycée Professionnel Place D'Armes"
+    "nom": "(97232) Lycée Professionnel Place d'Armes"
   },
   {
     "_id": 4107,
@@ -16437,7 +16437,7 @@
   },
   {
     "_id": 4110,
-    "nom": "(97250) Lycée Polyvalent du Numérique, Du Design et des Arts Appliqués de Martinique"
+    "nom": "(97250) Lycée Polyvalent du Numérique, du Design et des Arts Appliqués de Martinique"
   },
   {
     "_id": 4111,
@@ -16577,7 +16577,7 @@
   },
   {
     "_id": 4145,
-    "nom": "(97400) Lycée Professionnel L'Horizon"
+    "nom": "(97400) Lycée Professionnel l'Horizon"
   },
   {
     "_id": 4146,
@@ -16589,7 +16589,7 @@
   },
   {
     "_id": 4148,
-    "nom": "(97410) Lycée de Bois D'Olive"
+    "nom": "(97410) Lycée de Bois d'Olive"
   },
   {
     "_id": 4149,
@@ -16609,7 +16609,7 @@
   },
   {
     "_id": 4153,
-    "nom": "(97420) Ecole D'Apprentissage Maritime"
+    "nom": "(97420) Ecole d'Apprentissage Maritime"
   },
   {
     "_id": 4154,
@@ -16809,11 +16809,11 @@
   },
   {
     "_id": 4203,
-    "nom": "(98600) Centre D'Éducation Aux Technologies Appropriées Au Développement du Collège Lano-Alofivai"
+    "nom": "(98600) Centre d'Éducation Aux Technologies Appropriées Au Développement du Collège Lano-Alofivai"
   },
   {
     "_id": 4204,
-    "nom": "(98600) Lycée D'Etat de Wallis et Futuna"
+    "nom": "(98600) Lycée d'Etat de Wallis et Futuna"
   },
   {
     "_id": 4205,
@@ -16821,15 +16821,15 @@
   },
   {
     "_id": 4206,
-    "nom": "(98600) Section D'Enseignement Professionnel du Collège Sisia"
+    "nom": "(98600) Section d'Enseignement Professionnel du Collège Sisia"
   },
   {
     "_id": 4207,
-    "nom": "(98600) Section D'Enseignement Professionnel du Collège Vaimoana - Lavegahau"
+    "nom": "(98600) Section d'Enseignement Professionnel du Collège Vaimoana - Lavegahau"
   },
   {
     "_id": 4208,
-    "nom": "(98620) Centre D'Éducation Aux Technologies Appropriées Au Développement de Fiua"
+    "nom": "(98620) Centre d'Éducation Aux Technologies Appropriées Au Développement de Fiua"
   },
   {
     "_id": 4209,
@@ -16837,7 +16837,7 @@
   },
   {
     "_id": 4210,
-    "nom": "(98709) Centre D'Éducation Aux Technologies Appropriées Au Développement D'Hitia'A"
+    "nom": "(98709) Centre d'Éducation Aux Technologies Appropriées Au Développement d'Hitia'A"
   },
   {
     "_id": 4211,
@@ -16845,7 +16845,7 @@
   },
   {
     "_id": 4212,
-    "nom": "(98712) Centre D'Éducation Aux Technologies Appropriées Au Développement de Parara"
+    "nom": "(98712) Centre d'Éducation Aux Technologies Appropriées Au Développement de Parara"
   },
   {
     "_id": 4213,
@@ -16877,7 +16877,7 @@
   },
   {
     "_id": 4220,
-    "nom": "(98719) Centre D'Éducation Aux Technologies Appropriées Au Développement de Taravao"
+    "nom": "(98719) Centre d'Éducation Aux Technologies Appropriées Au Développement de Taravao"
   },
   {
     "_id": 4221,
@@ -16885,11 +16885,11 @@
   },
   {
     "_id": 4222,
-    "nom": "(98728) Centre D'Éducation Aux Technologies Appropriées Au Développement D'Afareaitu"
+    "nom": "(98728) Centre d'Éducation Aux Technologies Appropriées Au Développement d'Afareaitu"
   },
   {
     "_id": 4223,
-    "nom": "(98728) Centre D'Éducation Aux Technologies Appropriées Au Développement de Paopao"
+    "nom": "(98728) Centre d'Éducation Aux Technologies Appropriées Au Développement de Paopao"
   },
   {
     "_id": 4224,
@@ -16897,59 +16897,59 @@
   },
   {
     "_id": 4225,
-    "nom": "(98730) Centre D'Éducation Aux Technologies Appropriées Au Développement de Bora Bora"
+    "nom": "(98730) Centre d'Éducation Aux Technologies Appropriées Au Développement de Bora Bora"
   },
   {
     "_id": 4226,
-    "nom": "(98734) Centre D'Éducation Aux Technologies Appropriées Au Développement de Tahaa"
+    "nom": "(98734) Centre d'Éducation Aux Technologies Appropriées Au Développement de Tahaa"
   },
   {
     "_id": 4227,
-    "nom": "(98735) Centre D'Éducation Aux Technologies Appropriées Au Développement de Faaroa"
+    "nom": "(98735) Centre d'Éducation Aux Technologies Appropriées Au Développement de Faaroa"
   },
   {
     "_id": 4228,
-    "nom": "(98735) Lycée des Œles Sous-Le-Vent D'Uturoa"
+    "nom": "(98735) Lycée des Œles Sous-le-vent d'Uturoa"
   },
   {
     "_id": 4229,
-    "nom": "(98735) Lycée Professionnel D'Uturoa"
+    "nom": "(98735) Lycée Professionnel d'Uturoa"
   },
   {
     "_id": 4230,
-    "nom": "(98741) Centre D'Éducation Aux Technologies Appropriées Au Développement de Atuona"
+    "nom": "(98741) Centre d'Éducation Aux Technologies Appropriées Au Développement de Atuona"
   },
   {
     "_id": 4231,
-    "nom": "(98742) Centre Catholique D'Éducation Au Développement de Taiohae- Nuku Hiva"
+    "nom": "(98742) Centre Catholique d'Éducation Au Développement de Taiohae- Nuku Hiva"
   },
   {
     "_id": 4232,
-    "nom": "(98742) Centre D'Éducation Aux Technologies Appropriées Au Développement de Taiohae"
+    "nom": "(98742) Centre d'Éducation Aux Technologies Appropriées Au Développement de Taiohae"
   },
   {
     "_id": 4233,
-    "nom": "(98745) Centre D'Éducation Aux Technologies Appropriées Au Développement de Ua Pou"
+    "nom": "(98745) Centre d'Éducation Aux Technologies Appropriées Au Développement de Ua Pou"
   },
   {
     "_id": 4234,
-    "nom": "(98754) Centre D'Éducation Aux Technologies Appropriées Au Développement de Mataura"
+    "nom": "(98754) Centre d'Éducation Aux Technologies Appropriées Au Développement de Mataura"
   },
   {
     "_id": 4235,
-    "nom": "(98767) Centre D'Éducation Aux Technologies Appropriées Au Développement de Hao"
+    "nom": "(98767) Centre d'Éducation Aux Technologies Appropriées Au Développement de Hao"
   },
   {
     "_id": 4236,
-    "nom": "(98769) Centre Catholique D'Éducation Aux Développement de Makémo"
+    "nom": "(98769) Centre Catholique d'Éducation Aux Développement de Makémo"
   },
   {
     "_id": 4237,
-    "nom": "(98775) Centre D'Éducation Aux Technologies Appropriées Au Développement de Rangiroa"
+    "nom": "(98775) Centre d'Éducation Aux Technologies Appropriées Au Développement de Rangiroa"
   },
   {
     "_id": 4238,
-    "nom": "(98793) Centre Catholique D'Éducation Au Développement de Rikitea"
+    "nom": "(98793) Centre Catholique d'Éducation Au Développement de Rikitea"
   },
   {
     "_id": 4239,
@@ -16997,7 +16997,7 @@
   },
   {
     "_id": 4250,
-    "nom": "(98816) Lycée Professionnel ALycée Professionnel de Houaôlou"
+    "nom": "(98816) Lycée Professionnel Alycée Professionnel de Houaôlou"
   },
   {
     "_id": 4251,
@@ -17009,7 +17009,7 @@
   },
   {
     "_id": 4253,
-    "nom": "(98822) Lycée Professionnel ALycée Professionnel de Poindimié"
+    "nom": "(98822) Lycée Professionnel Alycée Professionnel de Poindimié"
   },
   {
     "_id": 4254,
@@ -17025,7 +17025,7 @@
   },
   {
     "_id": 4257,
-    "nom": "(98828) Lycée Professionnel ALycée Professionnel de la Roche"
+    "nom": "(98828) Lycée Professionnel Alycée Professionnel de la Roche"
   },
   {
     "_id": 4258,
@@ -17037,15 +17037,15 @@
   },
   {
     "_id": 4260,
-    "nom": "(98850) Lycée Professionnel ALycée Professionnel de Koumac"
+    "nom": "(98850) Lycée Professionnel Alycée Professionnel de Koumac"
   },
   {
     "_id": 4261,
-    "nom": "(98860) Lycée Professionnel ALycée Professionnel de Koné"
+    "nom": "(98860) Lycée Professionnel Alycée Professionnel de Koné"
   },
   {
     "_id": 4262,
-    "nom": "(98870) Lycée Professionnel Privé François-D'Assise"
+    "nom": "(98870) Lycée Professionnel Privé françois-d'Assise"
   },
   {
     "_id": 4263,
@@ -17053,7 +17053,7 @@
   },
   {
     "_id": 4264,
-    "nom": "(98880) Lycée Professionnel ALycée Professionnel de la Foa"
+    "nom": "(98880) Lycée Professionnel Alycée Professionnel de la Foa"
   },
   {
     "_id": 4265,
@@ -17069,6 +17069,1598 @@
   },
   {
     "_id": 4268,
-    "nom": "(01000) Lycée Agricole les Sardières"
+    "nom": "(Afrique du Sud) Lycée Français Jules-Verne"
+  },
+  {
+    "_id": 4269,
+    "nom": "(Afrique du Sud) Ecole Française François-Le Vaillant"
+  },
+  {
+    "_id": 4270,
+    "nom": "(Algérie) Lycée International Alexandre-Dumas"
+  },
+  {
+    "_id": 4271,
+    "nom": "(Algérie) Petite École d'Hydra"
+  },
+  {
+    "_id": 4272,
+    "nom": "(Allemagne) Lycée Français"
+  },
+  {
+    "_id": 4273,
+    "nom": "(Allemagne) Ecole de Gaulle-Adenauer"
+  },
+  {
+    "_id": 4274,
+    "nom": "(Allemagne) Lycée Français"
+  },
+  {
+    "_id": 4275,
+    "nom": "(Allemagne) Lycée Français Victor-Hugo"
+  },
+  {
+    "_id": 4276,
+    "nom": "(Allemagne) Lycée Franco-Allemand"
+  },
+  {
+    "_id": 4277,
+    "nom": "(Allemagne) Lycée Français Saint-Exupéry"
+  },
+  {
+    "_id": 4278,
+    "nom": "(Allemagne) Lycée Français Jean-Renoir"
+  },
+  {
+    "_id": 4279,
+    "nom": "(Allemagne) Ecole Française"
+  },
+  {
+    "_id": 4280,
+    "nom": "(Allemagne) Lycée Franco-Allemand"
+  },
+  {
+    "_id": 4281,
+    "nom": "(Allemagne) Ecole Francaise Pierre-et-Marie-Curie"
+  },
+  {
+    "_id": 4282,
+    "nom": "(Allemagne) Markische Grundschule"
+  },
+  {
+    "_id": 4283,
+    "nom": "(Allemagne) Interkulturelle Schule"
+  },
+  {
+    "_id": 4284,
+    "nom": "(Angola) Lycée Français Alioune-Blondin Bèye"
+  },
+  {
+    "_id": 4285,
+    "nom": "(Arabie Saoudite) Lycée Français Mlf d'Al-Khobar"
+  },
+  {
+    "_id": 4286,
+    "nom": "(Arabie Saoudite) Section Française de la Sais"
+  },
+  {
+    "_id": 4287,
+    "nom": "(Arabie Saoudite) Section Française de la Sais"
+  },
+  {
+    "_id": 4288,
+    "nom": "(Argentine) Lycée Franco-Argentin Jean-Mermoz"
+  },
+  {
+    "_id": 4289,
+    "nom": "(Australie) Lycée Franco-Australien"
+  },
+  {
+    "_id": 4290,
+    "nom": "(Australie) Lycée Condorcet - Sydney"
+  },
+  {
+    "_id": 4291,
+    "nom": "(Australie) Ecole Française de Melbourne"
+  },
+  {
+    "_id": 4292,
+    "nom": "(Autriche) Lycée Français"
+  },
+  {
+    "_id": 4293,
+    "nom": "(Bahrein) Ecole Française de Bahreïn"
+  },
+  {
+    "_id": 4294,
+    "nom": "(Bangladesh) Ecole Française Internationale"
+  },
+  {
+    "_id": 4295,
+    "nom": "(Belgique) Lycée Français Jean-Monnet"
+  },
+  {
+    "_id": 4296,
+    "nom": "(Belgique) Lycée Français"
+  },
+  {
+    "_id": 4297,
+    "nom": "(Bénin) Etablissement Français d'Enseignement Montaigne"
+  },
+  {
+    "_id": 4298,
+    "nom": "(Birmanie) Ecole Française Total - Mlf - Yangon"
+  },
+  {
+    "_id": 4299,
+    "nom": "(Bolivie) Lycée Franco-Bolivien alcide-d'Orbigny"
+  },
+  {
+    "_id": 4300,
+    "nom": "(Bolivie) Ecole Française de Santa Cruz"
+  },
+  {
+    "_id": 4301,
+    "nom": "(Bosnie Herzegovine) Ecole Française"
+  },
+  {
+    "_id": 4302,
+    "nom": "(Brésil) Lycée Français François-Mitterrand"
+  },
+  {
+    "_id": 4303,
+    "nom": "(Brésil) Ecole Renault Do Brasil"
+  },
+  {
+    "_id": 4304,
+    "nom": "(Brésil) Lycée Molière"
+  },
+  {
+    "_id": 4305,
+    "nom": "(Brésil) Lycée Pasteur"
+  },
+  {
+    "_id": 4306,
+    "nom": "(Brésil) Ecole Française"
+  },
+  {
+    "_id": 4307,
+    "nom": "(Bulgarie) Lycée Victor-Hugo"
+  },
+  {
+    "_id": 4308,
+    "nom": "(Burkina Faso) Ecole Française André-Malraux"
+  },
+  {
+    "_id": 4309,
+    "nom": "(Burkina Faso) Lycée Français Saint-Exupéry"
+  },
+  {
+    "_id": 4310,
+    "nom": "(Burundi) Ecole Française"
+  },
+  {
+    "_id": 4311,
+    "nom": "(Cambodge) Lycée Français René-Descartes"
+  },
+  {
+    "_id": 4312,
+    "nom": "(Cameroun) Ecole Française le Baobab"
+  },
+  {
+    "_id": 4313,
+    "nom": "(Cameroun) Lycée Français Dominique-Savio"
+  },
+  {
+    "_id": 4314,
+    "nom": "(Cameroun) Ecole Française le Tinguelin"
+  },
+  {
+    "_id": 4315,
+    "nom": "(Cameroun) Ecole Française les Boukarous"
+  },
+  {
+    "_id": 4316,
+    "nom": "(Cameroun) Ecole Française de l'Adamaoua"
+  },
+  {
+    "_id": 4317,
+    "nom": "(Cameroun) Lycée Fustel-de-Coulanges"
+  },
+  {
+    "_id": 4318,
+    "nom": "(Cameroun) Centre Scolaire Alucam"
+  },
+  {
+    "_id": 4319,
+    "nom": "(Cameroun) Ecole Internationale le Flamboyant"
+  },
+  {
+    "_id": 4320,
+    "nom": "(Canada) Lycée Paul-Claudel"
+  },
+  {
+    "_id": 4321,
+    "nom": "(Canada) Lycée Louis-Pasteur"
+  },
+  {
+    "_id": 4322,
+    "nom": "(Canada) Ecole Bilingue (Toronto French School)"
+  },
+  {
+    "_id": 4323,
+    "nom": "(Canada) Lycée Français"
+  },
+  {
+    "_id": 4324,
+    "nom": "(Canada) Ecole Française Internationale"
+  },
+  {
+    "_id": 4325,
+    "nom": "(Cap Vert) Ecole Internationale les Alizés"
+  },
+  {
+    "_id": 4326,
+    "nom": "(Chili) Lycée Charles-de-Gaulle"
+  },
+  {
+    "_id": 4327,
+    "nom": "(Chili) Lycée Claude-Gay"
+  },
+  {
+    "_id": 4328,
+    "nom": "(Chili) Lycée Antoine-de-Saint-Exupéry"
+  },
+  {
+    "_id": 4329,
+    "nom": "(Chili) Lycée jean-d'Alembert"
+  },
+  {
+    "_id": 4330,
+    "nom": "(Chili) Lycée Jean-Mermoz"
+  },
+  {
+    "_id": 4331,
+    "nom": "(Chine) Lycée Français de Pékin"
+  },
+  {
+    "_id": 4332,
+    "nom": "(Chine) Ecole Française de Canton"
+  },
+  {
+    "_id": 4333,
+    "nom": "(Chine) Lycée Français de Shanghai"
+  },
+  {
+    "_id": 4334,
+    "nom": "(Chine) Ecole Citröen - Mlf"
+  },
+  {
+    "_id": 4335,
+    "nom": "(Chine) Ecole Citröen - Mlf"
+  },
+  {
+    "_id": 4336,
+    "nom": "(Chine) Ecole Française Edf"
+  },
+  {
+    "_id": 4337,
+    "nom": "(Chine) Le Petit Lotus Bleu"
+  },
+  {
+    "_id": 4338,
+    "nom": "(Chine) Ecole Areva (Mlf)"
+  },
+  {
+    "_id": 4339,
+    "nom": "(Chine) Lycée Français International Victor-Ségalen"
+  },
+  {
+    "_id": 4340,
+    "nom": "(Chypre) Ecole Française Arthur-Rimbaud"
+  },
+  {
+    "_id": 4341,
+    "nom": "(Colombie) Lycée Français Louis-Pasteur"
+  },
+  {
+    "_id": 4342,
+    "nom": "(Colombie) Lycée Français Paul-Valéry"
+  },
+  {
+    "_id": 4343,
+    "nom": "(Colombie) Lycée Français"
+  },
+  {
+    "_id": 4344,
+    "nom": "(Comores) Ecole Française Henri-Matisse"
+  },
+  {
+    "_id": 4345,
+    "nom": "(Congo) Lycée Français Saint-Exupéry"
+  },
+  {
+    "_id": 4346,
+    "nom": "(Congo) Lycée Français Charlemagne"
+  },
+  {
+    "_id": 4347,
+    "nom": "(Costa Rica) Lycée Franco-Costaricien"
+  },
+  {
+    "_id": 4348,
+    "nom": "(Cote d'Ivoire) Cours Sévigné"
+  },
+  {
+    "_id": 4349,
+    "nom": "(Cote d'Ivoire) Lycée Blaise-Pascal"
+  },
+  {
+    "_id": 4350,
+    "nom": "(Cote d'Ivoire) Le Nid de Cocody"
+  },
+  {
+    "_id": 4351,
+    "nom": "(Cote d'Ivoire) La Pépinière des Deux Plateaux"
+  },
+  {
+    "_id": 4352,
+    "nom": "(Cote d'Ivoire) Cours Lamartine"
+  },
+  {
+    "_id": 4353,
+    "nom": "(Cote d'Ivoire) Groupe Scolaire Paul Langevin"
+  },
+  {
+    "_id": 4354,
+    "nom": "(Cote d'Ivoire) La Farandole Internationale"
+  },
+  {
+    "_id": 4355,
+    "nom": "(Cote d'Ivoire) Careefci"
+  },
+  {
+    "_id": 4356,
+    "nom": "(Croatie) Ecole Française"
+  },
+  {
+    "_id": 4357,
+    "nom": "(Cuba) Ecole Française"
+  },
+  {
+    "_id": 4358,
+    "nom": "(Danemark) Lycée Français Prins-Henrik"
+  },
+  {
+    "_id": 4359,
+    "nom": "(Djibouti) Lycée Français de Djibouti"
+  },
+  {
+    "_id": 4360,
+    "nom": "(Djibouti) Lycée d'Etat"
+  },
+  {
+    "_id": 4361,
+    "nom": "(Djibouti) Ecole de la Nativité"
+  },
+  {
+    "_id": 4362,
+    "nom": "(Egypte) Lycée Français d'Alexandrie Mlf"
+  },
+  {
+    "_id": 4363,
+    "nom": "(Egypte) Lycée Français"
+  },
+  {
+    "_id": 4364,
+    "nom": "(Egypte) Section Française de Misr Language School"
+  },
+  {
+    "_id": 4365,
+    "nom": "(Egypte) Lycée International Balzac"
+  },
+  {
+    "_id": 4366,
+    "nom": "(Egypte) Ecole Voltaire"
+  },
+  {
+    "_id": 4367,
+    "nom": "(Egypte) Ecole Concordia"
+  },
+  {
+    "_id": 4368,
+    "nom": "(Egypte) Ecole Voltaire"
+  },
+  {
+    "_id": 4369,
+    "nom": "(El Salvador) Lycée Français Antoine et Consuelo de Saint Exupéry"
+  },
+  {
+    "_id": 4370,
+    "nom": "(Emirats Arabes Unis) Lycée Louis-Massignon"
+  },
+  {
+    "_id": 4371,
+    "nom": "(Emirats Arabes Unis) Lycée Français International Georges-Pompidou"
+  },
+  {
+    "_id": 4372,
+    "nom": "(Emirats Arabes Unis) Lycée Français International"
+  },
+  {
+    "_id": 4373,
+    "nom": "(Emirats Arabes Unis) Lycée Français Théodore-Monod"
+  },
+  {
+    "_id": 4374,
+    "nom": "(Emirats Arabes Unis) Lycée Libanais Francophone Privé Dubai"
+  },
+  {
+    "_id": 4375,
+    "nom": "(Equateur) Lycée la Condamine"
+  },
+  {
+    "_id": 4376,
+    "nom": "(Equateur) Ecole Franco-Equatorienne Joseph de Jussieu"
+  },
+  {
+    "_id": 4377,
+    "nom": "(Espagne) Lycée Français Pierre-deschamps d'Alicante"
+  },
+  {
+    "_id": 4378,
+    "nom": "(Espagne) Ecole Française Ferdinand-de-Lesseps"
+  },
+  {
+    "_id": 4379,
+    "nom": "(Espagne) Lycée Français"
+  },
+  {
+    "_id": 4380,
+    "nom": "(Espagne) Ecole Française Pablo-Picasso"
+  },
+  {
+    "_id": 4381,
+    "nom": "(Espagne) Lycée Français Annexe Saint-Exupéry"
+  },
+  {
+    "_id": 4382,
+    "nom": "(Espagne) Union Chrétienne de Saint-Chaumond"
+  },
+  {
+    "_id": 4383,
+    "nom": "(Espagne) Lycée Français"
+  },
+  {
+    "_id": 4384,
+    "nom": "(Espagne) Lycée Français André-Malraux de Murcie"
+  },
+  {
+    "_id": 4385,
+    "nom": "(Espagne) Lycée Français"
+  },
+  {
+    "_id": 4386,
+    "nom": "(Espagne) Lycée Molière de Madrid (Villanueva de la Canada)"
+  },
+  {
+    "_id": 4387,
+    "nom": "(Espagne) Lycée Molière"
+  },
+  {
+    "_id": 4388,
+    "nom": "(Espagne) Lycée Français"
+  },
+  {
+    "_id": 4389,
+    "nom": "(Espagne) Ecole Saint-Louis des Français"
+  },
+  {
+    "_id": 4390,
+    "nom": "(Espagne) Ecole Bel Air"
+  },
+  {
+    "_id": 4391,
+    "nom": "(Espagne) Ecole Française Jules-Verne"
+  },
+  {
+    "_id": 4392,
+    "nom": "(Espagne) Lycée Français de Séville"
+  },
+  {
+    "_id": 4393,
+    "nom": "(Etats Unis) Le Lycée Français"
+  },
+  {
+    "_id": 4394,
+    "nom": "(Etats Unis) Lycée International Franco-Américain"
+  },
+  {
+    "_id": 4395,
+    "nom": "(Etats Unis) Lycée Français la Pérouse"
+  },
+  {
+    "_id": 4396,
+    "nom": "(Etats Unis) Lycée International de Los Angeles"
+  },
+  {
+    "_id": 4397,
+    "nom": "(Etats Unis) Ecole Bilingue"
+  },
+  {
+    "_id": 4398,
+    "nom": "(Etats Unis) Ecole Internationale de la Péninsule"
+  },
+  {
+    "_id": 4399,
+    "nom": "(Etats Unis) Ecole Franco-Américaine de la Silicon Valley"
+  },
+  {
+    "_id": 4400,
+    "nom": "(Etats Unis) Ecole Franco-Américaine du Puget Sound"
+  },
+  {
+    "_id": 4401,
+    "nom": "(Etats Unis) Ecole d'Immersion Française de Washington"
+  },
+  {
+    "_id": 4402,
+    "nom": "(Etats Unis) Ecole Internationale de l Arizona"
+  },
+  {
+    "_id": 4403,
+    "nom": "(Etats Unis) Lycée Franco-Américain"
+  },
+  {
+    "_id": 4404,
+    "nom": "(Etats Unis) Ecole Bilingue Arlington-Cambridge"
+  },
+  {
+    "_id": 4405,
+    "nom": "(Etats Unis) Ecole Internationale"
+  },
+  {
+    "_id": 4406,
+    "nom": "(Etats Unis) Lycée Rochambeau"
+  },
+  {
+    "_id": 4407,
+    "nom": "(Etats Unis) Ecole Franco-Américaine Lincoln"
+  },
+  {
+    "_id": 4408,
+    "nom": "(Etats Unis) Ecole Internationale"
+  },
+  {
+    "_id": 4409,
+    "nom": "(Etats Unis) Ecole Internationale"
+  },
+  {
+    "_id": 4410,
+    "nom": "(Etats Unis) Section Française d'Awty International School"
+  },
+  {
+    "_id": 4411,
+    "nom": "(Etats Unis) Section Française des Écoles Publiques Internationales du Comté de Dade"
+  },
+  {
+    "_id": 4412,
+    "nom": "(Etats Unis) Audubon Charter School"
+  },
+  {
+    "_id": 4413,
+    "nom": "(Etats Unis) Ecole Internationale Franco-Américaine"
+  },
+  {
+    "_id": 4414,
+    "nom": "(Etats Unis) Ecole Française"
+  },
+  {
+    "_id": 4415,
+    "nom": "(Etats Unis) Ecole Française"
+  },
+  {
+    "_id": 4416,
+    "nom": "(Etats Unis) Ecole Française Internationale"
+  },
+  {
+    "_id": 4417,
+    "nom": "(Etats Unis) Lycée Français"
+  },
+  {
+    "_id": 4418,
+    "nom": "(Etats Unis) Ecole Internationale d'Indiana"
+  },
+  {
+    "_id": 4419,
+    "nom": "(Etats Unis) Ecole Française Bilingue de la Caroline du Sud"
+  },
+  {
+    "_id": 4420,
+    "nom": "(Etats Unis) Ecole Franco-Américaine de Rhode Island"
+  },
+  {
+    "_id": 4421,
+    "nom": "(Etats Unis) Ecole Bilingue"
+  },
+  {
+    "_id": 4422,
+    "nom": "(Etats Unis) Ecole International Austin"
+  },
+  {
+    "_id": 4423,
+    "nom": "(Etats Unis) Ecole Franco-Américaine de New York"
+  },
+  {
+    "_id": 4424,
+    "nom": "(Etats Unis) Lyceum Kennedy"
+  },
+  {
+    "_id": 4425,
+    "nom": "(Etats Unis) Lycée Français"
+  },
+  {
+    "_id": 4426,
+    "nom": "(Etats Unis) Ecole Internationale des Nations Unies (Unis)"
+  },
+  {
+    "_id": 4427,
+    "nom": "(Etats Unis) Ecole Française"
+  },
+  {
+    "_id": 4428,
+    "nom": "(Etats Unis) Ecole Française de Princeton"
+  },
+  {
+    "_id": 4429,
+    "nom": "(Etats Unis) Ecole Française du Maine"
+  },
+  {
+    "_id": 4430,
+    "nom": "(Etats Unis) The French Academy Of Minnesota"
+  },
+  {
+    "_id": 4431,
+    "nom": "(Etats Unis) International School Of Brooklyn"
+  },
+  {
+    "_id": 4432,
+    "nom": "(Etats Unis) Ecole Franco-Américaine"
+  },
+  {
+    "_id": 4433,
+    "nom": "(Ethiopie) Lycée Franco-Éthiopien Guébré-Mariam"
+  },
+  {
+    "_id": 4434,
+    "nom": "(Finlande) Ecole Française"
+  },
+  {
+    "_id": 4435,
+    "nom": "(Finlande) Ecole Areva"
+  },
+  {
+    "_id": 4436,
+    "nom": "(Gabon) Lycée Français Blaise-Pascal"
+  },
+  {
+    "_id": 4437,
+    "nom": "(Gabon) Ecole Publique Conventionnée Gros Bouquet I"
+  },
+  {
+    "_id": 4438,
+    "nom": "(Gabon) Ecole Publique Conventionnée Gros Bouquet Ii"
+  },
+  {
+    "_id": 4439,
+    "nom": "(Gabon) Ecole Publique Conventionnée des Charbonnages"
+  },
+  {
+    "_id": 4440,
+    "nom": "(Gabon) Ecole Publique Conventionnée d'Owendo"
+  },
+  {
+    "_id": 4441,
+    "nom": "(Gabon) Ecole Publique Conventionnée"
+  },
+  {
+    "_id": 4442,
+    "nom": "(Gabon) Institution Immaculée-Conception"
+  },
+  {
+    "_id": 4443,
+    "nom": "(Gabon) Ecole Publique Conventionnée"
+  },
+  {
+    "_id": 4444,
+    "nom": "(Gambie) Ecole Française"
+  },
+  {
+    "_id": 4445,
+    "nom": "(Géorgie) Ecole Française du Caucase"
+  },
+  {
+    "_id": 4446,
+    "nom": "(Géorgie) Ecole Marie-Brosset"
+  },
+  {
+    "_id": 4447,
+    "nom": "(Ghana) Ecole Française Jacques-Prévert"
+  },
+  {
+    "_id": 4448,
+    "nom": "(Grèce) Lycée Franco-Hellénique"
+  },
+  {
+    "_id": 4449,
+    "nom": "(Grèce) Ecole Française"
+  },
+  {
+    "_id": 4450,
+    "nom": "(Guatemala) Lycee Français Jules-Verne"
+  },
+  {
+    "_id": 4451,
+    "nom": "(Guinée) Lycée Français Albert-Camus"
+  },
+  {
+    "_id": 4452,
+    "nom": "(Guinée) Ecole de la Compagnie des Bauxites de Guinée"
+  },
+  {
+    "_id": 4453,
+    "nom": "(Guinée Equatoriale) Ecole Française"
+  },
+  {
+    "_id": 4454,
+    "nom": "(Haiti) Lycée Alexandre-Dumas"
+  },
+  {
+    "_id": 4455,
+    "nom": "(Honduras) Lycée Franco-Hondurien"
+  },
+  {
+    "_id": 4456,
+    "nom": "(Hongrie) Lycée Français Gustave-Eiffel"
+  },
+  {
+    "_id": 4457,
+    "nom": "(Inde) Ecole Française Internationale - Bombay"
+  },
+  {
+    "_id": 4458,
+    "nom": "(Inde) Lycée Français"
+  },
+  {
+    "_id": 4459,
+    "nom": "(Inde) Lycée Français de Delhi"
+  },
+  {
+    "_id": 4460,
+    "nom": "(Indonésie) Ecole de la Société Total"
+  },
+  {
+    "_id": 4461,
+    "nom": "(Indonésie) Lycée International Français"
+  },
+  {
+    "_id": 4462,
+    "nom": "(Indonésie) Ecole Internationale Français"
+  },
+  {
+    "_id": 4463,
+    "nom": "(Iran) Ecole Française"
+  },
+  {
+    "_id": 4464,
+    "nom": "(Irlande) Lycée Français d'Irlande"
+  },
+  {
+    "_id": 4465,
+    "nom": "(Israël) Lycée Thorani"
+  },
+  {
+    "_id": 4466,
+    "nom": "(Italie) Ecole Française"
+  },
+  {
+    "_id": 4467,
+    "nom": "(Italie) Lycée Stendhal"
+  },
+  {
+    "_id": 4468,
+    "nom": "(Italie) Ecole Alexandre-Dumas de Naples"
+  },
+  {
+    "_id": 4469,
+    "nom": "(Italie) Institut Saint-Dominique"
+  },
+  {
+    "_id": 4470,
+    "nom": "(Italie) Lycée Chateaubriand"
+  },
+  {
+    "_id": 4471,
+    "nom": "(Italie) Lycée Français Jean-Giono"
+  },
+  {
+    "_id": 4472,
+    "nom": "(Japon) Lycée Franco-Japonais"
+  },
+  {
+    "_id": 4473,
+    "nom": "(Japon) Ecole Française du Kansaï"
+  },
+  {
+    "_id": 4474,
+    "nom": "(Japon) Ecole Cogema"
+  },
+  {
+    "_id": 4475,
+    "nom": "(Israël) Lycée Français"
+  },
+  {
+    "_id": 4476,
+    "nom": "(Israël) Lycée Havat Hanoar Hatsioni"
+  },
+  {
+    "_id": 4477,
+    "nom": "(Jordanie) Lycée Français d'Amman"
+  },
+  {
+    "_id": 4478,
+    "nom": "(Kenya) Lycée Français Denis-Diderot"
+  },
+  {
+    "_id": 4479,
+    "nom": "(Koweit) Lycée Français"
+  },
+  {
+    "_id": 4480,
+    "nom": "(Laos) Lycée Josué Hoffet"
+  },
+  {
+    "_id": 4481,
+    "nom": "(Laos) Ecole Edf Nam Theun 2"
+  },
+  {
+    "_id": 4482,
+    "nom": "(Lettonie) Ecole Française de Riga"
+  },
+  {
+    "_id": 4483,
+    "nom": "(Liban) Grand Lycée Franco-Libanais"
+  },
+  {
+    "_id": 4484,
+    "nom": "(Liban) Lycée Abdel-Kader"
+  },
+  {
+    "_id": 4485,
+    "nom": "(Liban) Lycée Franco-Libanais Verdun"
+  },
+  {
+    "_id": 4486,
+    "nom": "(Liban) Lycée Alphonse-de-Lamartine"
+  },
+  {
+    "_id": 4487,
+    "nom": "(Liban) l'Athénée de Beyrouth"
+  },
+  {
+    "_id": 4488,
+    "nom": "(Liban) International College"
+  },
+  {
+    "_id": 4489,
+    "nom": "(Liban) Lycée Franco-Libanais Nahr-Ibrahim"
+  },
+  {
+    "_id": 4490,
+    "nom": "(Liban) Lycée Abdallah Rassi"
+  },
+  {
+    "_id": 4491,
+    "nom": "(Liban) Lycée Franco-Libanais Habbouche-Nabatieh"
+  },
+  {
+    "_id": 4492,
+    "nom": "(Liban) Institut Moderne du Liban"
+  },
+  {
+    "_id": 4493,
+    "nom": "(Liban) Ecole Internationale Antonine (Section Française)"
+  },
+  {
+    "_id": 4494,
+    "nom": "(Liban) Shouf National College"
+  },
+  {
+    "_id": 4495,
+    "nom": "(Liban) Lycée Charlemagne"
+  },
+  {
+    "_id": 4496,
+    "nom": "(Liban) Dominicaines de Notre Dame de la Délivrande"
+  },
+  {
+    "_id": 4497,
+    "nom": "(Liban) Lycée de Ville"
+  },
+  {
+    "_id": 4498,
+    "nom": "(Liban) Montana International College"
+  },
+  {
+    "_id": 4499,
+    "nom": "(Libye) Lycée Français"
+  },
+  {
+    "_id": 4500,
+    "nom": "(Lituanie) Ecole Française"
+  },
+  {
+    "_id": 4501,
+    "nom": "(Luxembourg) Lycée Vauban"
+  },
+  {
+    "_id": 4502,
+    "nom": "(Luxembourg) Ecole Privé Notre Dame Sainte Sophie"
+  },
+  {
+    "_id": 4503,
+    "nom": "(Madagascar) Lycée Français"
+  },
+  {
+    "_id": 4504,
+    "nom": "(Madagascar) Lycée Français Sadi-Carnot"
+  },
+  {
+    "_id": 4505,
+    "nom": "(Madagascar) Lycée Français René-Cassin"
+  },
+  {
+    "_id": 4506,
+    "nom": "(Madagascar) Lycée Français"
+  },
+  {
+    "_id": 4507,
+    "nom": "(Madagascar) Ecole Sully"
+  },
+  {
+    "_id": 4508,
+    "nom": "(Madagascar) Ecole Française du Lac Alaotra"
+  },
+  {
+    "_id": 4509,
+    "nom": "(Madagascar) Ecole la Clairefontaine"
+  },
+  {
+    "_id": 4510,
+    "nom": "(Madagascar) Ecole Alliance Française"
+  },
+  {
+    "_id": 4511,
+    "nom": "(Madagascar) Ecole Bird"
+  },
+  {
+    "_id": 4512,
+    "nom": "(Madagascar) Ecole Peter Pan"
+  },
+  {
+    "_id": 4513,
+    "nom": "(Madagascar) Ecole de l'Alliance"
+  },
+  {
+    "_id": 4514,
+    "nom": "(Madagascar) Ecole la Francophonie"
+  },
+  {
+    "_id": 4515,
+    "nom": "(Madagascar) La Clairefontaine"
+  },
+  {
+    "_id": 4516,
+    "nom": "(Malaisie) Lycée Français"
+  },
+  {
+    "_id": 4517,
+    "nom": "(Mali) Lycée Français Liberté"
+  },
+  {
+    "_id": 4518,
+    "nom": "(Mali) Ecole les Lutins"
+  },
+  {
+    "_id": 4519,
+    "nom": "(Mali) Groupe Scolaire les Angelots\"\""
+  },
+  {
+    "_id": 4520,
+    "nom": "(Maroc) Groupe Scolaire Paul-Gauguin"
+  },
+  {
+    "_id": 4521,
+    "nom": "(Maroc) Lycée Lyautey"
+  },
+  {
+    "_id": 4522,
+    "nom": "(Maroc) Ecole Ernest-Renan"
+  },
+  {
+    "_id": 4523,
+    "nom": "(Maroc) Ecole Georges-Bizet"
+  },
+  {
+    "_id": 4524,
+    "nom": "(Maroc) Ecole Molière"
+  },
+  {
+    "_id": 4525,
+    "nom": "(Maroc) Ecole Théophile-Gautier"
+  },
+  {
+    "_id": 4526,
+    "nom": "(Maroc) Ecole Claude-Bernard"
+  },
+  {
+    "_id": 4527,
+    "nom": "(Maroc) Groupe Scolaire Jean-Charcot (Osui)"
+  },
+  {
+    "_id": 4528,
+    "nom": "(Maroc) Groupe Scolaire Jean-de-La Fontaine"
+  },
+  {
+    "_id": 4529,
+    "nom": "(Maroc) Groupe Scolaire Honoré-de-Balzac"
+  },
+  {
+    "_id": 4530,
+    "nom": "(Maroc) Ecole Auguste-Renoir"
+  },
+  {
+    "_id": 4531,
+    "nom": "(Maroc) Lycée Victor-Hugo"
+  },
+  {
+    "_id": 4532,
+    "nom": "(Maroc) Ecole Jean-Jacques-Rousseau"
+  },
+  {
+    "_id": 4533,
+    "nom": "(Maroc) Lycée Paul-Valéry"
+  },
+  {
+    "_id": 4534,
+    "nom": "(Maroc) Groupe Scolaire Claude-Monet"
+  },
+  {
+    "_id": 4535,
+    "nom": "(Maroc) Ecole Albert-Camus"
+  },
+  {
+    "_id": 4536,
+    "nom": "(Maroc) Ecole André-Chénier"
+  },
+  {
+    "_id": 4537,
+    "nom": "(Maroc) Ecole Paul-Cézanne"
+  },
+  {
+    "_id": 4538,
+    "nom": "(Maroc) Ecole Pierre-de-Ronsard"
+  },
+  {
+    "_id": 4539,
+    "nom": "(Maroc) Lycée Descartes"
+  },
+  {
+    "_id": 4540,
+    "nom": "(Maroc) Ecole Adrien-Berchet"
+  },
+  {
+    "_id": 4541,
+    "nom": "(Maroc) Lycée Régnault"
+  },
+  {
+    "_id": 4542,
+    "nom": "(Maroc) Ecole Al Jabr"
+  },
+  {
+    "_id": 4543,
+    "nom": "(Maroc) Ecole Normale Hébraïque"
+  },
+  {
+    "_id": 4544,
+    "nom": "(Maroc) Lycée Maïmonide"
+  },
+  {
+    "_id": 4545,
+    "nom": "(Maroc) Groupe Scolaire Louis-Massignon (Osui)"
+  },
+  {
+    "_id": 4546,
+    "nom": "(Maroc) Lycée Français (Osui)"
+  },
+  {
+    "_id": 4547,
+    "nom": "(Maroc) Groupe Scolaire André-Malraux (Osui)"
+  },
+  {
+    "_id": 4548,
+    "nom": "(Maroc) Ecole Majorelle (Groupe Scolaire Osui)"
+  },
+  {
+    "_id": 4549,
+    "nom": "(Maroc) Ecole Française Osui d'Essaouira"
+  },
+  {
+    "_id": 4550,
+    "nom": "(Maroc) Groupe Scolaire la Résidence"
+  },
+  {
+    "_id": 4551,
+    "nom": "(Maroc) Ecole Internationale de Casablanca (Ort)"
+  },
+  {
+    "_id": 4552,
+    "nom": "(Maroc) Ecole Française Osui Al Akhawayn"
+  },
+  {
+    "_id": 4553,
+    "nom": "(Maurice) Lycée la Bourdonnais - Curepipe"
+  },
+  {
+    "_id": 4554,
+    "nom": "(Maurice) Ecole du Nord"
+  },
+  {
+    "_id": 4555,
+    "nom": "(Maurice) Ecole du Centre Pierre-Poivre"
+  },
+  {
+    "_id": 4556,
+    "nom": "(Maurice) Lycée des Mascareignes - Moka"
+  },
+  {
+    "_id": 4557,
+    "nom": "(Mauritanie) Lycée Français Théodore-Monod"
+  },
+  {
+    "_id": 4558,
+    "nom": "(Mexique) Ecole Molière"
+  },
+  {
+    "_id": 4559,
+    "nom": "(Mexique) Lycée Français de Guadalajara"
+  },
+  {
+    "_id": 4560,
+    "nom": "(Mexique) Section Française du Lycée Franco-Mexicain"
+  },
+  {
+    "_id": 4561,
+    "nom": "(Monaco) Lycée Albert-1er"
+  },
+  {
+    "_id": 4562,
+    "nom": "(Monaco) Lycée Technique et Hôtelier de Monte-Carlo"
+  },
+  {
+    "_id": 4563,
+    "nom": "(Monaco) Cours Saint-Maur"
+  },
+  {
+    "_id": 4564,
+    "nom": "(Monaco) Ecole de Fontvielle"
+  },
+  {
+    "_id": 4565,
+    "nom": "(Monaco) Ecole de la Condamine"
+  },
+  {
+    "_id": 4566,
+    "nom": "(Monaco) Ecole Saint-Charles"
+  },
+  {
+    "_id": 4567,
+    "nom": "(Monaco) Etablissement françois-d'Assise-Nicolas-Barré"
+  },
+  {
+    "_id": 4568,
+    "nom": "(Monaco) Ecole des Carmes"
+  },
+  {
+    "_id": 4569,
+    "nom": "(Monaco) Ecole du Parc"
+  },
+  {
+    "_id": 4570,
+    "nom": "(Monaco) Ecole des Revoires"
+  },
+  {
+    "_id": 4571,
+    "nom": "(Mozambique) Ecole Française"
+  },
+  {
+    "_id": 4572,
+    "nom": "(Namibie) Deutsche Höhere Privatschule (Section Française)"
+  },
+  {
+    "_id": 4573,
+    "nom": "(Népal) Ecole Française"
+  },
+  {
+    "_id": 4574,
+    "nom": "(Niger) Lycée la Fontaine"
+  },
+  {
+    "_id": 4575,
+    "nom": "(Nigéria) Ecole Française"
+  },
+  {
+    "_id": 4576,
+    "nom": "(Nigéria) Lycée Français Louis-Pasteur"
+  },
+  {
+    "_id": 4577,
+    "nom": "(Nigéria) Ecole Française Total, Mlf"
+  },
+  {
+    "_id": 4578,
+    "nom": "(Nigéria) Ecole Française Marcel-Pagnol"
+  },
+  {
+    "_id": 4579,
+    "nom": "(Nigéria) Ecole Française Peugeot"
+  },
+  {
+    "_id": 4580,
+    "nom": "(Norvège) Lycée Français René-Cassin"
+  },
+  {
+    "_id": 4581,
+    "nom": "(Norvège) Lycée Français"
+  },
+  {
+    "_id": 4582,
+    "nom": "(Oman) Ecole Française"
+  },
+  {
+    "_id": 4583,
+    "nom": "(Ouganda) Ecole Française les Grands Lacs"
+  },
+  {
+    "_id": 4584,
+    "nom": "(Ouzbekistan) Ecole Française"
+  },
+  {
+    "_id": 4585,
+    "nom": "(Panama) Ecole Française Paul-Gauguin"
+  },
+  {
+    "_id": 4586,
+    "nom": "(Paraguay) Lycée Français International Marcel-Pagnol"
+  },
+  {
+    "_id": 4587,
+    "nom": "(Pays Bas) Lycée Van-gogh Annexe d'Amsterdam"
+  },
+  {
+    "_id": 4588,
+    "nom": "(Pays Bas) Lycée Van-Gogh"
+  },
+  {
+    "_id": 4589,
+    "nom": "(Perou) Lycée Franco-Péruvien"
+  },
+  {
+    "_id": 4590,
+    "nom": "(Philippines) Ecole Française"
+  },
+  {
+    "_id": 4591,
+    "nom": "(Pologne) Lycée René-Goscinny"
+  },
+  {
+    "_id": 4592,
+    "nom": "(Pologne) Ecole d'Entreprise Michelin"
+  },
+  {
+    "_id": 4593,
+    "nom": "(Portugal) Lycée Français Charles-Lepierre"
+  },
+  {
+    "_id": 4594,
+    "nom": "(Portugal) Ecole Française Marius-Latour"
+  },
+  {
+    "_id": 4595,
+    "nom": "(Qatar) Lycée Bonaparte"
+  },
+  {
+    "_id": 4596,
+    "nom": "(Qatar) Lycée Franco-Qatarien Voltaire"
+  },
+  {
+    "_id": 4597,
+    "nom": "(Rép Démocratique du Congo) Lycée Français René-Descartes"
+  },
+  {
+    "_id": 4598,
+    "nom": "(Rép Démocratique du Congo) Lycée Français Blaise Pascal"
+  },
+  {
+    "_id": 4599,
+    "nom": "(République Centrafricaine) Lycée Charles-de-Gaulle"
+  },
+  {
+    "_id": 4600,
+    "nom": "(République de Coree) Lycée Français"
+  },
+  {
+    "_id": 4601,
+    "nom": "(République Dominicaine) Lycée Français"
+  },
+  {
+    "_id": 4602,
+    "nom": "(République Dominicaine) Ecole Française Théodore-Chassériau"
+  },
+  {
+    "_id": 4603,
+    "nom": "(Roumanie) Lycée Français Anna-de-Noailles"
+  },
+  {
+    "_id": 4604,
+    "nom": "(Roumanie) Ecole Renault"
+  },
+  {
+    "_id": 4605,
+    "nom": "(Royaume Uni) Ecole d'Entreprise Total"
+  },
+  {
+    "_id": 4606,
+    "nom": "(Royaume Uni) Lycée Français Charles-de-Gaulle Annexe de Wix"
+  },
+  {
+    "_id": 4607,
+    "nom": "(Royaume Uni) Ecole l'Ile-Aux-Enfants"
+  },
+  {
+    "_id": 4608,
+    "nom": "(Royaume Uni) Lycée Français Charles-de-Gaulle"
+  },
+  {
+    "_id": 4609,
+    "nom": "(Royaume Uni) Lycée Français Charles-de-Gaulle Annexe de Ealing"
+  },
+  {
+    "_id": 4610,
+    "nom": "(Royaume Uni) Ecole Française Jacques-Prévert"
+  },
+  {
+    "_id": 4611,
+    "nom": "(Royaume Uni) l'Ecole des Petits"
+  },
+  {
+    "_id": 4612,
+    "nom": "(Royaume Uni) Ecole le Hérisson"
+  },
+  {
+    "_id": 4613,
+    "nom": "(Royaume Uni) La Petite Ecole Francaise"
+  },
+  {
+    "_id": 4614,
+    "nom": "(Royaume Uni) Ecole Française de Bristol"
+  },
+  {
+    "_id": 4615,
+    "nom": "(Royaume Uni) l'École Bilingue"
+  },
+  {
+    "_id": 4616,
+    "nom": "(Russie) Lycée Français Alexandre-Dumas"
+  },
+  {
+    "_id": 4617,
+    "nom": "(Russie) Ecole Française"
+  },
+  {
+    "_id": 4618,
+    "nom": "(Sénégal) Institution Sainte-jeanne d'Arc"
+  },
+  {
+    "_id": 4619,
+    "nom": "(Sénégal) Lycée Français Jean-Mermoz"
+  },
+  {
+    "_id": 4620,
+    "nom": "(Sénégal) Ecole Française Antoine-de-Saint-Exupéry"
+  },
+  {
+    "_id": 4621,
+    "nom": "(Sénégal) Ecole Française Dr.-Guillet"
+  },
+  {
+    "_id": 4622,
+    "nom": "(Sénégal) Ecole Française François-Rabelais"
+  },
+  {
+    "_id": 4623,
+    "nom": "(Sénégal) Cours Sainte-Marie-de-Hann"
+  },
+  {
+    "_id": 4624,
+    "nom": "(Sénégal) Ecole Aloys-Kobes"
+  },
+  {
+    "_id": 4625,
+    "nom": "(Sénégal) Ecole Franco-Sénégalaise de Fann"
+  },
+  {
+    "_id": 4626,
+    "nom": "(Sénégal) Ecole Franco-Sénégalaise Dial-Diop"
+  },
+  {
+    "_id": 4627,
+    "nom": "(Sénégal) Ecole Française Jacques Prévert"
+  },
+  {
+    "_id": 4628,
+    "nom": "(Sénégal) École Chez Bouba\"\""
+  },
+  {
+    "_id": 4629,
+    "nom": "(Serbie) Ecole Française"
+  },
+  {
+    "_id": 4630,
+    "nom": "(Seychelles) Ecole Française"
+  },
+  {
+    "_id": 4631,
+    "nom": "(Singapour) Lycée Français"
+  },
+  {
+    "_id": 4632,
+    "nom": "(Slovaquie) Ecole Française"
+  },
+  {
+    "_id": 4633,
+    "nom": "(Slovénie) Ecole Française"
+  },
+  {
+    "_id": 4634,
+    "nom": "(Soudan) Ecole Française"
+  },
+  {
+    "_id": 4635,
+    "nom": "(Sri Lanka) Ecole Française"
+  },
+  {
+    "_id": 4636,
+    "nom": "(Suede) Lycée Français Saint-Louis"
+  },
+  {
+    "_id": 4637,
+    "nom": "(Suisse) Ecole Française"
+  },
+  {
+    "_id": 4638,
+    "nom": "(Suisse) Ecole Française de Lausanne-Valmont"
+  },
+  {
+    "_id": 4639,
+    "nom": "(Suisse) Ecole Française"
+  },
+  {
+    "_id": 4640,
+    "nom": "(Suisse) Lycée Français"
+  },
+  {
+    "_id": 4641,
+    "nom": "(Syrie) Ecole Française - Mlf"
+  },
+  {
+    "_id": 4642,
+    "nom": "(Syrie) Lycée Français Charles de Gaulle"
+  },
+  {
+    "_id": 4643,
+    "nom": "(Taiwan) Section Française de l'École Européenne"
+  },
+  {
+    "_id": 4644,
+    "nom": "(Tanzanie) Ecole Française Arthur-Rimbaud"
+  },
+  {
+    "_id": 4645,
+    "nom": "(Tchad) Lycée Français Montaigne"
+  },
+  {
+    "_id": 4646,
+    "nom": "(République Tchèque) Lycée Français"
+  },
+  {
+    "_id": 4647,
+    "nom": "(Thailande) Lycée Français"
+  },
+  {
+    "_id": 4648,
+    "nom": "(Togo) Lycée Français"
+  },
+  {
+    "_id": 4649,
+    "nom": "(Tunisie) Ecole Jean-Giono"
+  },
+  {
+    "_id": 4650,
+    "nom": "(Tunisie) Ecole Paul-Verlaine"
+  },
+  {
+    "_id": 4651,
+    "nom": "(Tunisie) Lycée Français Gustave-Flaubert"
+  },
+  {
+    "_id": 4652,
+    "nom": "(Tunisie) Ecole Georges-Brassens"
+  },
+  {
+    "_id": 4653,
+    "nom": "(Tunisie) Ecole George-Sand"
+  },
+  {
+    "_id": 4654,
+    "nom": "(Tunisie) Ecole Guy-de-Maupassant"
+  },
+  {
+    "_id": 4655,
+    "nom": "(Tunisie) Lycée Pierre-Mendès-France"
+  },
+  {
+    "_id": 4656,
+    "nom": "(Tunisie) Ecole Robert-Desnos"
+  },
+  {
+    "_id": 4657,
+    "nom": "(Tunisie) Ecole Internationale de Carthage"
+  },
+  {
+    "_id": 4658,
+    "nom": "(Turquie) Lycée Français Charles-de-Gaulle"
+  },
+  {
+    "_id": 4659,
+    "nom": "(Turquie) Lycée Français Pierre-Loti"
+  },
+  {
+    "_id": 4660,
+    "nom": "(Uruguay) Lycée Français Jules-Supervielle"
+  },
+  {
+    "_id": 4661,
+    "nom": "(Vanuatu) Lycée Français"
+  },
+  {
+    "_id": 4662,
+    "nom": "(Viet Nam) Lycée Français Alexandre-Yersin"
+  },
+  {
+    "_id": 4663,
+    "nom": "(Viet Nam) Ecole Française Colette"
+  },
+  {
+    "_id": 4664,
+    "nom": "(Yemen) Ecole Française"
+  },
+  {
+    "_id": 4665,
+    "nom": "(Zambie) Ecole Française Champollion"
+  },
+  {
+    "_id": 4666,
+    "nom": "(Zimbabwe) Groupe Scolaire Jean de la Fontaine"
   }
 ]
